@@ -1,0 +1,1 @@
+pyinstaller --onefile --add-data "D:\Work\Programs\Normal;." --add-data "D:\Work\Programs\Software\ToposPro;." CalculatePoreDimension.py

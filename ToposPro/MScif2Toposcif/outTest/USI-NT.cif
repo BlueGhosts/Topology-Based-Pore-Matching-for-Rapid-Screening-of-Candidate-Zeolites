@@ -1,0 +1,98 @@
+data_USI-NT
+_audit_creation_method             	Write2Cif_ToposPro  
+_symmetry_space_group_name_H-M     	C2/M                
+_symmetry_Int_Tables_number        	12                  
+_symmetry_cell_setting             	monoclinic system   
+_cell_length_a                     	21.119              
+_cell_length_b                     	12.971              
+_cell_length_c                     	9.672               
+_cell_angle_alpha                  	90.0                
+_cell_angle_beta                   	108.367             
+_cell_angle_gamma                  	90.0                
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-x,y,-z
+-x,-y,-z
+x,-y,z
+x+1/2,y+1/2,z
+-x+1/2,y+1/2,-z
+-x+1/2,-y+1/2,-z
+x+1/2,-y+1/2,z
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1        	O         	0.6601    	0.1356    	0.1896    
+O2        	O         	0.779     	0.19      	0.181     
+O3        	O         	0.6825    	0.1494    	0.9378    
+O4        	O         	0.8401    	0.2008    	0.6507    
+O5        	O         	0.7471    	0.1236    	0.7477    
+O6        	O         	0.7284    	0.1341    	0.4662    
+O7        	O         	0.5978    	0.8689    	0.3888    
+O8        	O         	0.6237    	0.1903    	0.6608    
+Si1       	Si        	0.7147    	0.119     	0.1068    
+Si2       	Si        	0.7827    	0.1145    	0.6233    
+Si3       	Si        	0.661     	0.825     	0.3481    
+Si4       	Si        	0.5764    	0.1187    	0.5339    
+Si5       	Si        	0.6934    	0.8064    	0.7914    
+O9        	O         	0.7375    	0.0       	0.1195    
+O10       	O         	0.8128    	0.0       	0.6277    
+O11       	O         	0.5843    	0.0       	0.5852    
+ZA3       	ZA        	0.67838   	0.0       	0.57418   
+ZA5       	ZA        	0.6918    	0.0       	0.76385   
+ZA6       	ZA        	0.6837    	0.0       	0.40303   
+O12       	O         	0.5       	0.1542    	0.5       
+ZA1       	ZA        	0.0       	0.0       	0.0       
+ZA2       	ZA        	0.0       	0.0       	0.5       
+ZA4       	ZA        	0.5       	0.0       	0.0       
+loop_
+_topos_bond_atom_site_label_1
+_topos_bond_atom_site_label_2
+_topos_bond_site_symmetry_1
+_topos_bond_site_symmetry_2
+_topos_bond_distance
+_topos_bond_type
+O1   	Si1  	1_0_0_0   	1_0_0_0   	1.612  V    
+O1   	Si3  	1_0_0_0   	4_0_1_0   	1.61   V    
+O2   	Si1  	1_0_0_0   	1_0_0_0   	1.61   V    
+O2   	Si5  	1_0_0_0   	6_1_-1_1  	1.61   V    
+O3   	Si1  	1_0_0_0   	1_0_0_1   	1.609  V    
+O3   	Si5  	1_0_0_0   	4_0_1_0   	1.61   V    
+O4   	Si2  	1_0_0_0   	1_0_0_0   	1.609  V    
+O4   	Si3  	1_0_0_0   	6_1_-1_1  	1.611  V    
+O5   	Si2  	1_0_0_0   	1_0_0_0   	1.612  V    
+O5   	Si5  	1_0_0_0   	4_0_1_0   	1.61   V    
+O6   	Si2  	1_0_0_0   	1_0_0_0   	1.609  V    
+O6   	Si3  	1_0_0_0   	4_0_1_0   	1.609  V    
+O7   	Si3  	1_0_0_0   	1_0_0_0   	1.61   V    
+O7   	Si4  	1_0_0_0   	4_0_1_0   	1.612  V    
+O8   	Si4  	1_0_0_0   	1_0_0_0   	1.611  V    
+O8   	Si5  	1_0_0_0   	4_0_1_0   	1.61   V    
+Si1  	O3   	1_0_0_0   	1_0_0_-1  	1.609  V    
+Si1  	O9   	1_0_0_0   	1_0_0_0   	1.61   V    
+Si2  	O10  	1_0_0_0   	1_0_0_0   	1.611  V    
+Si3  	O1   	1_0_0_0   	4_0_1_0   	1.61   V    
+Si3  	O4   	1_0_0_0   	6_1_0_1   	1.611  V    
+Si3  	O6   	1_0_0_0   	4_0_1_0   	1.609  V    
+Si4  	O7   	1_0_0_0   	4_0_1_0   	1.612  V    
+Si4  	O11  	1_0_0_0   	1_0_0_0   	1.61   V    
+Si4  	O12  	1_0_0_0   	1_0_0_0   	1.609  V    
+Si5  	O2   	1_0_0_0   	6_1_0_1   	1.61   V    
+Si5  	O3   	1_0_0_0   	4_0_1_0   	1.61   V    
+Si5  	O5   	1_0_0_0   	4_0_1_0   	1.61   V    
+Si5  	O8   	1_0_0_0   	4_0_1_0   	1.61   V    
+O9   	Si1  	1_0_0_0   	4_0_0_0   	1.61   V    
+O10  	Si2  	1_0_0_0   	4_0_0_0   	1.611  V    
+O11  	Si4  	1_0_0_0   	4_0_0_0   	1.61   V    
+ZA3  	ZA6  	1_0_0_0   	1_0_0_0   	1.694  V    
+ZA3  	ZA5  	1_0_0_0   	1_0_0_0   	1.766  V    
+O12  	Si4  	1_0_0_0   	2_1_0_1   	1.609  V    
+ZA1  	ZA4  	1_0_0_0   	5_-1_-1_0 	6.486  V    
+ZA1  	ZA4  	1_0_0_0   	5_-1_0_0  	6.486  V    
+ZA1  	ZA2  	1_0_0_0   	1_0_0_-1  	4.836  V    
+ZA2  	ZA1  	1_0_0_0   	1_0_0_1   	4.836  V    
+ZA4  	ZA1  	1_0_0_0   	5_0_0_0   	6.486  V    
+ZA4  	ZA1  	1_0_0_0   	5_0_-1_0  	6.486  V    

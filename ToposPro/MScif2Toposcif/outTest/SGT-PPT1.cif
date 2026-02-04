@@ -1,0 +1,92 @@
+data_SGT-PPT1
+_audit_creation_method             	Write2Cif_ToposPro  
+_symmetry_space_group_name_H-M     	I41/AMD             
+_symmetry_Int_Tables_number        	141                 
+_symmetry_cell_setting             	tetragonal system   
+_cell_length_a                     	10.329              
+_cell_length_b                     	10.329              
+_cell_length_c                     	34.364              
+_cell_angle_alpha                  	90.0                
+_cell_angle_beta                   	90.0                
+_cell_angle_gamma                  	90.0                
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-x+1/2,-y+1/2,z+1/2
+-y,x+1/2,z+1/4
+y+1/2,-x,z+3/4
+-x+1/2,y,-z+3/4
+x,-y+1/2,-z+1/4
+y+1/2,x+1/2,-z+1/2
+-y,-x,-z
+-x,-y+1/2,-z+1/4
+x+1/2,y,-z+3/4
+y,-x,-z
+-y+1/2,x+1/2,-z+1/2
+x+1/2,-y+1/2,z+1/2
+-x,y,z
+-y+1/2,-x,z+3/4
+y,x+1/2,z+1/4
+x+1/2,y+1/2,z+1/2
+-x,-y,z
+-y+1/2,x,z+3/4
+y,-x+1/2,z+1/4
+-x,y+1/2,-z+1/4
+x+1/2,-y,-z+3/4
+y,x,-z
+-y+1/2,-x+1/2,-z+1/2
+-x+1/2,-y,-z+3/4
+x,y+1/2,-z+1/4
+y+1/2,-x+1/2,-z+1/2
+-y,x,-z
+x,-y,z
+-x+1/2,y+1/2,z+1/2
+-y,-x+1/2,z+1/4
+y+1/2,x,z+3/4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1        	O         	0.7192    	0.3726    	0.3379    
+O2        	O         	0.6919    	0.127     	0.1157    
+O3        	O         	0.6673    	0.5       	0.2736    
+O4        	O         	0.7308    	0.5       	0.1994    
+Si1       	Si        	0.786     	0.5       	0.2432    
+Si2       	Si        	0.6512    	0.5       	0.3203    
+Si3       	Si        	0.6531    	0.5       	0.1588    
+O5        	O         	0.8726    	0.3726    	0.25      
+O6        	O         	0.5       	0.5       	0.3315    
+O7        	O         	0.5       	0.5       	0.1674    
+Si4       	Si        	0.7824    	0.25      	0.125     
+ZA1       	ZA        	0.0       	0.5       	0.16554   
+ZA2       	ZA        	0.5       	0.0       	0.25      
+loop_
+_topos_bond_atom_site_label_1
+_topos_bond_atom_site_label_2
+_topos_bond_site_symmetry_1
+_topos_bond_site_symmetry_2
+_topos_bond_distance
+_topos_bond_type
+O1   	Si2  	1_0_0_0   	1_0_0_0   	1.61   V    
+O1   	Si4  	1_0_0_0   	3_1_-1_0  	1.611  V    
+O2   	Si4  	1_0_0_0   	1_0_0_0   	1.609  V    
+O2   	Si3  	1_0_0_0   	6_0_0_0   	1.609  V    
+O3   	Si1  	1_0_0_0   	1_0_0_0   	1.611  V    
+O3   	Si2  	1_0_0_0   	1_0_0_0   	1.613  V    
+O4   	Si1  	1_0_0_0   	1_0_0_0   	1.61   V    
+O4   	Si3  	1_0_0_0   	1_0_0_0   	1.61   V    
+Si1  	O5   	1_0_0_0   	1_0_0_0   	1.608  V    
+Si1  	O5   	1_0_0_0   	27_0_1_0  	1.608  V    
+Si2  	O1   	1_0_0_0   	29_0_1_0  	1.61   V    
+Si2  	O6   	1_0_0_0   	1_0_0_0   	1.608  V    
+Si3  	O7   	1_0_0_0   	1_0_0_0   	1.609  V    
+Si3  	O2   	1_0_0_0   	6_0_0_0   	1.609  V    
+Si3  	O2   	1_0_0_0   	26_0_0_0  	1.609  V    
+O5   	Si1  	1_0_0_0   	7_0_-1_0  	1.608  V    
+O6   	Si2  	1_0_0_0   	14_1_0_0  	1.608  V    
+O7   	Si3  	1_0_0_0   	14_1_0_0  	1.609  V    
+Si4  	O2   	1_0_0_0   	6_0_0_0   	1.609  V    
+Si4  	O1   	1_0_0_0   	4_0_1_-1  	1.611  V    
+Si4  	O1   	1_0_0_0   	7_0_-1_0  	1.611  V    

@@ -1,0 +1,3311 @@
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ABW-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ABW-PPT1.cif
+Code:1 Error number field in loop string: Si1   O2    1_0_0_0    6_0_0_1 1.609
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ABW-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ABW-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ACO-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AEI-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AEL-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AEN-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AET-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AFG-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AFI-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AFN-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AFO-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AFR-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AFS-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AFT-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AFV-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AFX-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AFY-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AHT-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ANA-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ANO-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\APC-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\APD-NT.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AST-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ASV-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ATN-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ATO-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ATS-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ATT-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ATV-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AVE-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AVL-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AWO-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AWW-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\BCT-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\BEC-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\BIK-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\BOF-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\BOG-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\BOZ-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\BPH-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\BRE-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\BSV-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\CAN-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\CAS-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\CDO-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\CFI-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\CGF-NT.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\CGS-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\CHA-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\CHI-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\CLO-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\CON_-NT.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\CSV-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\CZP-NT.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\DAC-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\DDR-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\DFO-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\DFT-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\DOH-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\DON-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\EAB-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\EDI-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\EEI-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\EMT-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\EON-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\EOS-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\EPI-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ERI-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ESV-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ETL-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ETR-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ETV-NT.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\EUO-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\EWF-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\EWO-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\EWS-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\EWT-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\EZT-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\FAR-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\FAU-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\FER-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\FRA-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\GIS-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\GIU-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\GME-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\GON-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\GOO-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\HEU-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\-HOS-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\HZF-NT.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\IFR-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\IFT-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\-IFU-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\IFW-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\IFY-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\IHW-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\IMF-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ION-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\IRN-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\IRR-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\-IRY-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ISV-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ITE-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ITG-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ITH-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\-ITR-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ITT-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ITW-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\IWR-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\IWS-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\IWV-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\IWW-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\JBW-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\JNT-NT.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\JOZ-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\JRY-NT.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\JSN-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\JSR-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\JST-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\JSW-NT.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\JSY-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\JZO-NT.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\JZT-NT.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\KFI-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\LAU-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\LEV-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\LIO-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\LIT-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\LOS-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\LOV-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\LTA-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\LTF-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\LTJ-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\LTL-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\LTN-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MAR-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MAZ-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MEI-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MEL-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MEP-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MER-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MFI-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MFS-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MON-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MOR-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MOZ-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MRT-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MSE-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MSO-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MTF-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MTN-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MTT-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MTW-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MVY-NT.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MWF-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MWW-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\NAB-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\NAT-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\NES-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\NON-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\NPO-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\NPT-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\NSI-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\OBW-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\OFF-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\OKO-NT.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\OSI-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\OSO-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\OWE-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\PAR-NT.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\PAU-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\PCR-NT.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\PHI-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\PON-NT.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\POR-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\POS-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\PSI-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\PTF-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\PTT-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\PTY-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\PUN-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\PWN-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\PWO-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\PWW-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\RFE-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\RHO-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\RRO-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\RSN-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\RTE-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\RTH-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\RUT-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\RWR-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\RWY-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SAF-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SAO-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SAS-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SAT-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SAV-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SBE-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SBN-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SBS-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SBT-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SEW-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SFE-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SFF-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SFG-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SFH-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SFN-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SFO-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SFS-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SFW-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SGT-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SIV-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SOD-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SOF-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SOR-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SOS-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SOV-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SSF-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\-SSO-NT.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SSY-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\STF-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\STI-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\STT-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\STW-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SVR-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SVV-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SWY-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\-SYT-NT.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SZR-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\TER-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\THO-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\TOL-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\TON-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\TSC-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\TUN-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\UEI-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\UFI-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\UOS-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\UOV-NT.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\UOZ-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\USI-NT.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\UTL-NT.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\UWY-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\VET-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\VFI-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\VNI-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\VSV-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\WEI-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\WEN-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\YFI-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\YUG-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ZJN-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ZON-PPT1.cif
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ABW-PPT1.cif
+Code:1 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ACO-PPT1.cif
+Code:2 Error in element name:Za
+Code:2 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AEI-PPT1.cif
+Code:3 Error in element name:Za
+Code:3 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AEL-PPT1.cif
+Code:4 Error in element name:Za
+Code:4 Error in element name:Za
+Code:4 Error in element name:Za
+Code:4 Error in element name:Za
+Code:4 Error in element name:Za
+Code:4 Error in element name:Za
+Code:4 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AEN-PPT1.cif
+Code:5 Error in element name:Za
+Code:5 Error in element name:Za
+Code:5 Error in element name:Za
+Code:5 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AET-PPT1.cif
+Code:6 Error in element name:Za
+Code:6 Error in element name:Za
+Code:6 Error in element name:Za
+Code:6 Error in element name:Za
+Code:6 Error in element name:Za
+Code:6 Error in element name:Za
+Code:6 Error in element name:Za
+Code:6 Error in element name:Za
+Code:6 Error in element name:Za
+Code:6 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AFG-PPT1.cif
+Code:7 Error in element name:Za
+Code:7 Error in element name:Za
+Code:7 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AFI-PPT1.cif
+Code:8 Error in element name:Za
+Code:8 Error in element name:Za
+Code:8 Error in element name:Za
+Code:8 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AFN-PPT1.cif
+Code:9 Error in element name:Za
+Code:9 Error in element name:Za
+Code:9 Error in element name:Za
+Code:9 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AFO-PPT1.cif
+Code:10 Error in element name:Za
+Code:10 Error in element name:Za
+Code:10 Error in element name:Za
+Code:10 Error in element name:Za
+Code:10 Error in element name:Za
+Code:10 Error in element name:Za
+Code:10 Error in element name:Za
+Code:10 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AFR-PPT1.cif
+Code:11 Error in element name:Za
+Code:11 Error in element name:Za
+Code:11 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AFS-PPT1.cif
+Code:12 Error in element name:Za
+Code:12 Error in element name:Za
+Code:12 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AFT-PPT1.cif
+Code:13 Error in element name:Za
+Code:13 Error in element name:Za
+Code:13 Error in element name:Za
+Code:13 Error in element name:Za
+Code:13 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AFV-PPT1.cif
+Code:14 Error in element name:Za
+Code:14 Error in element name:Za
+Code:14 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AFX-PPT1.cif
+Code:15 Error in element name:Za
+Code:15 Error in element name:Za
+Code:15 Error in element name:Za
+Code:15 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AFY-PPT1.cif
+Code:16 Error in element name:Za
+Code:16 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AHT-PPT1.cif
+Code:17 Error in element name:Za
+Code:17 Error in element name:Za
+Code:17 Error in element name:Za
+Code:17 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ANA-PPT1.cif
+Code:18 Error in element name:Za
+Code:18 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ANO-PPT1.cif
+Code:19 Error in element name:Za
+Code:19 Error in element name:Za
+Code:19 Error in element name:Za
+Code:19 Error in element name:Za
+Code:19 Error in element name:Za
+Code:19 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\APC-PPT1.cif
+Code:20 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\APD-NT.cif
+Code:21 Error in element name:Za
+Code:21 Error in element name:Za
+Code:21 Error in element name:Za
+Code:21 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AST-PPT1.cif
+Code:22 Error in element name:Za
+Code:22 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ASV-PPT1.cif
+Code:23 Error in element name:Za
+Code:23 Error in element name:Za
+Code:23 Error in element name:Za
+Code:23 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ATN-PPT1.cif
+Code:24 Error in element name:Za
+Code:24 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ATO-PPT1.cif
+Code:25 Error in element name:Za
+Code:25 Error in element name:Za
+Code:25 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ATS-PPT1.cif
+Code:26 Error in element name:Za
+Code:26 Error in element name:Za
+Code:26 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ATT-PPT1.cif
+Code:27 Error in element name:Za
+Code:27 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ATV-PPT1.cif
+Code:28 Error in element name:Za
+Code:28 Error in element name:Za
+Code:28 Error in element name:Za
+Code:28 Error in element name:Za
+Code:28 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AVE-PPT1.cif
+Code:29 Error in element name:Za
+Code:29 Error in element name:Za
+Code:29 Error in element name:Za
+Code:29 Error in element name:Za
+Code:29 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AVL-PPT1.cif
+Code:30 Error in element name:Za
+Code:30 Error in element name:Za
+Code:30 Error in element name:Za
+Code:30 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AWO-PPT1.cif
+Code:31 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AWW-PPT1.cif
+Code:32 Error in element name:Za
+Code:32 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\BCT-PPT1.cif
+Code:33 Error in element name:Za
+Code:33 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\BEC-PPT1.cif
+Code:34 Error in element name:Za
+Code:34 Error in element name:Za
+Code:34 Error in element name:Za
+Code:34 Error in element name:Za
+Code:34 Error in element name:Za
+Code:34 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\BIK-PPT1.cif
+Code:35 Error in element name:Za
+Code:35 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\BOF-PPT1.cif
+Code:36 Error in element name:Za
+Code:36 Error in element name:Za
+Code:36 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\BOG-PPT1.cif
+Code:37 Error in element name:Za
+Code:37 Error in element name:Za
+Code:37 Error in element name:Za
+Code:37 Error in element name:Za
+Code:37 Error in element name:Za
+Code:37 Error in element name:Za
+Code:37 Error in element name:Za
+Code:37 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\BOZ-PPT1.cif
+Code:38 Error in element name:Za
+Code:38 Error in element name:Za
+Code:38 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\BPH-PPT1.cif
+Code:39 Error in element name:Za
+Code:39 Error in element name:Za
+Code:39 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\BRE-PPT1.cif
+Code:40 Error in element name:Za
+Code:40 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\BSV-PPT1.cif
+Code:41 Error in element name:Za
+Code:41 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\CAN-PPT1.cif
+Code:42 Error in element name:Za
+Code:42 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\CAS-PPT1.cif
+Code:43 Error in element name:Za
+Code:43 Error in element name:Za
+Code:43 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\CDO-PPT1.cif
+Code:44 Error in element name:Za
+Code:44 Error in element name:Za
+Code:44 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\CFI-PPT1.cif
+Code:45 Error in element name:Za
+Code:45 Error in element name:Za
+Code:45 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\CGF-NT.cif
+Code:46 Error in element name:Za
+Code:46 Error in element name:Za
+Code:46 Error in element name:Za
+Code:46 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\CGS-PPT1.cif
+Code:47 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\CHA-PPT1.cif
+Code:48 Error in element name:Za
+Code:48 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\CHI-PPT1.cif
+Code:49 Error in element name:Za
+Code:49 Error in element name:Za
+Code:49 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\CLO-PPT1.cif
+Code:50 Error in element name:Za
+Code:50 Error in element name:Za
+Code:50 Error in element name:Za
+Code:50 Error in element name:Za
+Code:50 Error in element name:Za
+Code:50 Error in element name:Za
+Code:50 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\CON_-NT.cif
+Code:51 Error in element name:Za
+Code:51 Error in element name:Za
+Code:51 Error in element name:Za
+Code:51 Error in element name:Za
+Code:51 Error in element name:Za
+Code:51 Error in element name:Za
+Code:51 Error in element name:Za
+Code:51 Error in element name:Za
+Code:51 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\CSV-PPT1.cif
+Code:52 Error in element name:Za
+Code:52 Error in element name:Za
+Code:52 Error in element name:Za
+Code:52 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\CZP-NT.cif
+Code:53 Error in element name:Za
+Code:53 Error in element name:Za
+Code:53 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\DAC-PPT1.cif
+Code:54 Error in element name:Za
+Code:54 Error in element name:Za
+Code:54 Error in element name:Za
+Code:54 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\DDR-PPT1.cif
+Code:55 Error in element name:Za
+Code:55 Error in element name:Za
+Code:55 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\DFO-PPT1.cif
+Code:56 Error in element name:Za
+Code:56 Error in element name:Za
+Code:56 Error in element name:Za
+Code:56 Error in element name:Za
+Code:56 Error in element name:Za
+Code:56 Error in element name:Za
+Code:56 Error in element name:Za
+Code:56 Error in element name:Za
+Code:56 Error in element name:Za
+Code:56 Error in element name:Za
+Code:56 Error in element name:Za
+Code:56 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\DFT-PPT1.cif
+Code:57 Error in element name:Za
+Code:57 Error in element name:Za
+Code:57 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\DOH-PPT1.cif
+Code:58 Error in element name:Za
+Code:58 Error in element name:Za
+Code:58 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\DON-PPT1.cif
+Code:59 Error in element name:Za
+Code:59 Error in element name:Za
+Code:59 Error in element name:Za
+Code:59 Error in element name:Za
+Code:59 Error in element name:Za
+Code:59 Error in element name:Za
+Code:59 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\EAB-PPT1.cif
+Code:60 Error in element name:Za
+Code:60 Error in element name:Za
+Code:60 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\EDI-PPT1.cif
+Code:61 Error in element name:Za
+Code:61 Error in element name:Za
+Code:61 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\EEI-PPT1.cif
+Code:62 Error in element name:Za
+Code:62 Error in element name:Za
+Code:62 Error in element name:Za
+Code:62 Error in element name:Za
+Code:62 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\EMT-PPT1.cif
+Code:63 Error in element name:Za
+Code:63 Error in element name:Za
+Code:63 Error in element name:Za
+Code:63 Error in element name:Za
+Code:63 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\EON-PPT1.cif
+Code:64 Error in element name:Za
+Code:64 Error in element name:Za
+Code:64 Error in element name:Za
+Code:64 Error in element name:Za
+Code:64 Error in element name:Za
+Code:64 Error in element name:Za
+Code:64 Error in element name:Za
+Code:64 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\EOS-PPT1.cif
+Code:65 Error in element name:Za
+Code:65 Error in element name:Za
+Code:65 Error in element name:Za
+Code:65 Error in element name:Za
+Code:65 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\EPI-PPT1.cif
+Code:66 Error in element name:Za
+Code:66 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ERI-PPT1.cif
+Code:67 Error in element name:Za
+Code:67 Error in element name:Za
+Code:67 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ESV-PPT1.cif
+Code:68 Error in element name:Za
+Code:68 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ETL-PPT1.cif
+Code:69 Error in element name:Za
+Code:69 Error in element name:Za
+Code:69 Error in element name:Za
+Code:69 Error in element name:Za
+Code:69 Error in element name:Za
+Code:69 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ETR-PPT1.cif
+Code:70 Error in element name:Za
+Code:70 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ETV-NT.cif
+Code:71 Error in element name:Za
+Code:71 Error in element name:Za
+Code:71 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\EUO-PPT1.cif
+Code:72 Error in element name:Za
+Code:72 Error in element name:Za
+Code:72 Error in element name:Za
+Code:72 Error in element name:Za
+Code:72 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\EWF-PPT1.cif
+Code:73 Error in element name:Za
+Code:73 Error in element name:Za
+Code:73 Error in element name:Za
+Code:73 Error in element name:Za
+Code:73 Error in element name:Za
+Code:73 Error in element name:Za
+Code:73 Error in element name:Za
+Code:73 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\EWO-PPT1.cif
+Code:74 Error in element name:Za
+Code:74 Error in element name:Za
+Code:74 Error in element name:Za
+Code:74 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\EWS-PPT1.cif
+Code:75 Error in element name:Za
+Code:75 Error in element name:Za
+Code:75 Error in element name:Za
+Code:75 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\EWT-PPT1.cif
+Code:76 Error in element name:Za
+Code:76 Error in element name:Za
+Code:76 Error in element name:Za
+Code:76 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\EZT-PPT1.cif
+Code:77 Error in element name:Za
+Code:77 Error in element name:Za
+Code:77 Error in element name:Za
+Code:77 Error in element name:Za
+Code:77 Error in element name:Za
+Code:77 Error in element name:Za
+Code:77 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\FAR-PPT1.cif
+Code:78 Error in element name:Za
+Code:78 Error in element name:Za
+Code:78 Error in element name:Za
+Code:78 Error in element name:Za
+Code:78 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\FAU-PPT1.cif
+Code:79 Error in element name:Za
+Code:79 Error in element name:Za
+Code:79 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\FER-PPT1.cif
+Code:80 Error in element name:Za
+Code:80 Error in element name:Za
+Code:80 Error in element name:Za
+Code:80 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\FRA-PPT1.cif
+Code:81 Error in element name:Za
+Code:81 Error in element name:Za
+Code:81 Error in element name:Za
+Code:81 Error in element name:Za
+Code:81 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\GIS-PPT1.cif
+Code:82 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\GIU-PPT1.cif
+Code:83 Error in element name:Za
+Code:83 Error in element name:Za
+Code:83 Error in element name:Za
+Code:83 Error in element name:Za
+Code:83 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\GME-PPT1.cif
+Code:84 Error in element name:Za
+Code:84 Error in element name:Za
+Code:84 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\GON-PPT1.cif
+Code:85 Error in element name:Za
+Code:85 Error in element name:Za
+Code:85 Error in element name:Za
+Code:85 Error in element name:Za
+Code:85 Error in element name:Za
+Code:85 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\GOO-PPT1.cif
+Code:86 Error in element name:Za
+Code:86 Error in element name:Za
+Code:86 Error in element name:Za
+Code:86 Error in element name:Za
+Code:86 Error in element name:Za
+Code:86 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\HEU-PPT1.cif
+Code:87 Error in element name:Za
+Code:87 Error in element name:Za
+Code:87 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\-HOS-PPT1.cif
+Code:88 Error in element name:Za
+Code:88 Error in element name:Za
+Code:88 Error in element name:Za
+Code:88 Error in element name:Za
+Code:88 Error in element name:Za
+Code:88 Error in element name:Za
+Code:88 Error in element name:Za
+Code:88 Error in element name:Za
+Code:88 Error in element name:Za
+Code:88 Error in element name:Za
+Code:88 Error in element name:Za
+Code:88 Error in element name:Za
+Code:88 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\HZF-NT.cif
+Code:89 Error in element name:Za
+Code:89 Error in element name:Za
+Code:89 Error in element name:Za
+Code:89 Error in element name:Za
+Code:89 Error in element name:Za
+Code:89 Error in element name:Za
+Code:89 Error in element name:Za
+Code:89 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\IFR-PPT1.cif
+Code:90 Error in element name:Za
+Code:90 Error in element name:Za
+Code:90 Error in element name:Za
+Code:90 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\IFT-PPT1.cif
+Code:91 Error in element name:Za
+Code:91 Error in element name:Za
+Code:91 Error in element name:Za
+Code:91 Error in element name:Za
+Code:91 Error in element name:Za
+Code:91 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\-IFU-PPT1.cif
+Code:92 Error in element name:Za
+Code:92 Error in element name:Za
+Code:92 Error in element name:Za
+Code:92 Error in element name:Za
+Code:92 Error in element name:Za
+Code:92 Error in element name:Za
+Code:92 Error in element name:Za
+Code:92 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\IFW-PPT1.cif
+Code:93 Error in element name:Za
+Code:93 Error in element name:Za
+Code:93 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\IFY-PPT1.cif
+Code:94 Error in element name:Za
+Code:94 Error in element name:Za
+Code:94 Error in element name:Za
+Code:94 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\IHW-PPT1.cif
+Code:95 Error in element name:Za
+Code:95 Error in element name:Za
+Code:95 Error in element name:Za
+Code:95 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\IMF-PPT1.cif
+Code:96 Error in element name:Za
+Code:96 Error in element name:Za
+Code:96 Error in element name:Za
+Code:96 Error in element name:Za
+Code:96 Error in element name:Za
+Code:96 Error in element name:Za
+Code:96 Error in element name:Za
+Code:96 Error in element name:Za
+Code:96 Error in element name:Za
+Code:96 Error in element name:Za
+Code:96 Error in element name:Za
+Code:96 Error in element name:Za
+Code:96 Error in element name:Za
+Code:96 Error in element name:Za
+Code:96 Error in element name:Za
+Code:96 Error in element name:Za
+Code:96 Error in element name:Za
+Code:96 Error in element name:Za
+Code:96 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ION-PPT1.cif
+Code:97 Error in element name:Za
+Code:97 Error in element name:Za
+Code:97 Error in element name:Za
+Code:97 Error in element name:Za
+Code:97 Error in element name:Za
+Code:97 Error in element name:Za
+Code:97 Error in element name:Za
+Code:97 Error in element name:Za
+Code:97 Error in element name:Za
+Code:97 Error in element name:Za
+Code:97 Error in element name:Za
+Code:97 Error in element name:Za
+Code:97 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\IRN-PPT1.cif
+Code:98 Error in element name:Za
+Code:98 Error in element name:Za
+Code:98 Error in element name:Za
+Code:98 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\IRR-PPT1.cif
+Code:99 Error in element name:Za
+Code:99 Error in element name:Za
+Code:99 Error in element name:Za
+Code:99 Error in element name:Za
+Code:99 Error in element name:Za
+Code:99 Error in element name:Za
+Code:99 Error in element name:Za
+Code:99 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\-IRY-PPT1.cif
+Code:100 Error in element name:Za
+Code:100 Error in element name:Za
+Code:100 Error in element name:Za
+Code:100 Error in element name:Za
+Code:100 Error in element name:Za
+Code:100 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ISV-PPT1.cif
+Code:101 Error in element name:Za
+Code:101 Error in element name:Za
+Code:101 Error in element name:Za
+Code:101 Error in element name:Za
+Code:101 Error in element name:Za
+Code:101 Error in element name:Za
+Code:101 Error in element name:Za
+Code:101 Error in element name:Za
+Code:101 Error in element name:Za
+Code:101 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ITE-PPT1.cif
+Code:102 Error in element name:Za
+Code:102 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ITG-PPT1.cif
+Code:103 Error in element name:Za
+Code:103 Error in element name:Za
+Code:103 Error in element name:Za
+Code:103 Error in element name:Za
+Code:103 Error in element name:Za
+Code:103 Error in element name:Za
+Code:103 Error in element name:Za
+Code:103 Error in element name:Za
+Code:103 Error in element name:Za
+Code:103 Error in element name:Za
+Code:103 Error in element name:Za
+Code:103 Error in element name:Za
+Code:103 Error in element name:Za
+Code:103 Error in element name:Za
+Code:103 Error in element name:Za
+Code:103 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ITH-PPT1.cif
+Code:104 Error in element name:Za
+Code:104 Error in element name:Za
+Code:104 Error in element name:Za
+Code:104 Error in element name:Za
+Code:104 Error in element name:Za
+Code:104 Error in element name:Za
+Code:104 Error in element name:Za
+Code:104 Error in element name:Za
+Code:104 Error in element name:Za
+Code:104 Error in element name:Za
+Code:104 Error in element name:Za
+Code:104 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\-ITR-PPT1.cif
+Code:105 Error in element name:Za
+Code:105 Error in element name:Za
+Code:105 Error in element name:Za
+Code:105 Error in element name:Za
+Code:105 Error in element name:Za
+Code:105 Error in element name:Za
+Code:105 Error in element name:Za
+Code:105 Error in element name:Za
+Code:105 Error in element name:Za
+Code:105 Error in element name:Za
+Code:105 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ITT-PPT1.cif
+Code:106 Error in element name:Za
+Code:106 Error in element name:Za
+Code:106 Error in element name:Za
+Code:106 Error in element name:Za
+Code:106 Error in element name:Za
+Code:106 Error in element name:Za
+Code:106 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ITW-PPT1.cif
+Code:107 Error in element name:Za
+Code:107 Error in element name:Za
+Code:107 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\IWR-PPT1.cif
+Code:108 Error in element name:Za
+Code:108 Error in element name:Za
+Code:108 Error in element name:Za
+Code:108 Error in element name:Za
+Code:108 Error in element name:Za
+Code:108 Error in element name:Za
+Code:108 Error in element name:Za
+Code:108 Error in element name:Za
+Code:108 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\IWS-PPT1.cif
+Code:109 Error in element name:Za
+Code:109 Error in element name:Za
+Code:109 Error in element name:Za
+Code:109 Error in element name:Za
+Code:109 Error in element name:Za
+Code:109 Error in element name:Za
+Code:109 Error in element name:Za
+Code:109 Error in element name:Za
+Code:109 Error in element name:Za
+Code:109 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\IWV-PPT1.cif
+Code:110 Error in element name:Za
+Code:110 Error in element name:Za
+Code:110 Error in element name:Za
+Code:110 Error in element name:Za
+Code:110 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\IWW-PPT1.cif
+Code:111 Error in element name:Za
+Code:111 Error in element name:Za
+Code:111 Error in element name:Za
+Code:111 Error in element name:Za
+Code:111 Error in element name:Za
+Code:111 Error in element name:Za
+Code:111 Error in element name:Za
+Code:111 Error in element name:Za
+Code:111 Error in element name:Za
+Code:111 Error in element name:Za
+Code:111 Error in element name:Za
+Code:111 Error in element name:Za
+Code:111 Error in element name:Za
+Code:111 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\JBW-PPT1.cif
+Code:112 Error in element name:Za
+Code:112 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\JNT-NT.cif
+Code:113 Error in element name:Za
+Code:113 Error in element name:Za
+Code:113 Error in element name:Za
+Code:113 Error in element name:Za
+Code:113 Error in element name:Za
+Code:113 Error in element name:Za
+Code:113 Error in element name:Za
+Code:113 Error in element name:Za
+Code:113 Error in element name:Za
+Code:113 Error in element name:Za
+Code:113 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\JOZ-PPT1.cif
+Code:114 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\JRY-NT.cif
+Code:115 Error in element name:Za
+Code:115 Error in element name:Za
+Code:115 Error in element name:Za
+Code:115 Error in element name:Za
+Code:115 Error in element name:Za
+Code:115 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\JSN-PPT1.cif
+Code:116 Error in element name:Za
+Code:116 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\JSR-PPT1.cif
+Code:117 Error in element name:Za
+Code:117 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\JST-PPT1.cif
+Code:118 Error in element name:Za
+Code:118 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\JSW-NT.cif
+Code:119 Error in element name:Za
+Code:119 Error in element name:Za
+Code:119 Error in element name:Za
+Code:119 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\JSY-PPT1.cif
+Code:120 Error in element name:Za
+Code:120 Error in element name:Za
+Code:120 Error in element name:Za
+Code:120 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\JZO-NT.cif
+Code:121 Error in element name:Za
+Code:121 Error in element name:Za
+Code:121 Error in element name:Za
+Code:121 Error in element name:Za
+Code:121 Error in element name:Za
+Code:121 Error in element name:Za
+Code:121 Error in element name:Za
+Code:121 Error in element name:Za
+Code:121 Error in element name:Za
+Code:121 Error in element name:Za
+Code:121 Error in element name:Za
+Code:121 Error in element name:Za
+Code:121 Error in element name:Za
+Code:121 Error in element name:Za
+Code:121 Error in element name:Za
+Code:121 Error in element name:Za
+Code:121 Error in element name:Za
+Code:121 Error in element name:Za
+Code:121 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\JZT-NT.cif
+Code:122 Error in element name:Za
+Code:122 Error in element name:Za
+Code:122 Error in element name:Za
+Code:122 Error in element name:Za
+Code:122 Error in element name:Za
+Code:122 Error in element name:Za
+Code:122 Error in element name:Za
+Code:122 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\KFI-PPT1.cif
+Code:123 Error in element name:Za
+Code:123 Error in element name:Za
+Code:123 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\LAU-PPT1.cif
+Code:124 Error in element name:Za
+Code:124 Error in element name:Za
+Code:124 Error in element name:Za
+Code:124 Error in element name:Za
+Code:124 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\LEV-PPT1.cif
+Code:125 Error in element name:Za
+Code:125 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\LIO-PPT1.cif
+Code:126 Error in element name:Za
+Code:126 Error in element name:Za
+Code:126 Error in element name:Za
+Code:126 Error in element name:Za
+Code:126 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\LIT-PPT1.cif
+Code:127 Error in element name:Za
+Code:127 Error in element name:Za
+Code:127 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\LOS-PPT1.cif
+Code:128 Error in element name:Za
+Code:128 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\LOV-PPT1.cif
+Code:129 Error in element name:Za
+Code:129 Error in element name:Za
+Code:129 Error in element name:Za
+Code:129 Error in element name:Za
+Code:129 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\LTA-PPT1.cif
+Code:130 Error in element name:Za
+Code:130 Error in element name:Za
+Code:130 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\LTF-PPT1.cif
+Code:131 Error in element name:Za
+Code:131 Error in element name:Za
+Code:131 Error in element name:Za
+Code:131 Error in element name:Za
+Code:131 Error in element name:Za
+Code:131 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\LTJ-PPT1.cif
+Code:132 Error in element name:Za
+Code:132 Error in element name:Za
+Code:132 Error in element name:Za
+Code:132 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\LTL-PPT1.cif
+Code:133 Error in element name:Za
+Code:133 Error in element name:Za
+Code:133 Error in element name:Za
+Code:133 Error in element name:Za
+Code:133 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\LTN-PPT1.cif
+Code:134 Error in element name:Za
+Code:134 Error in element name:Za
+Code:134 Error in element name:Za
+Code:134 Error in element name:Za
+Code:134 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MAR-PPT1.cif
+Code:135 Error in element name:Za
+Code:135 Error in element name:Za
+Code:135 Error in element name:Za
+Code:135 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MAZ-PPT1.cif
+Code:136 Error in element name:Za
+Code:136 Error in element name:Za
+Code:136 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MEI-PPT1.cif
+Code:137 Error in element name:Za
+Code:137 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MEL-PPT1.cif
+Code:138 Error in element name:Za
+Code:138 Error in element name:Za
+Code:138 Error in element name:Za
+Code:138 Error in element name:Za
+Code:138 Error in element name:Za
+Code:138 Error in element name:Za
+Code:138 Error in element name:Za
+Code:138 Error in element name:Za
+Code:138 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MEP-PPT1.cif
+Code:139 Error in element name:Za
+Code:139 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MER-PPT1.cif
+Code:140 Error in element name:Za
+Code:140 Error in element name:Za
+Code:140 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MFI-PPT1.cif
+Code:141 Error in element name:Za
+Code:141 Error in element name:Za
+Code:141 Error in element name:Za
+Code:141 Error in element name:Za
+Code:141 Error in element name:Za
+Code:141 Error in element name:Za
+Code:141 Error in element name:Za
+Code:141 Error in element name:Za
+Code:141 Error in element name:Za
+Code:141 Error in element name:Za
+Code:141 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MFS-PPT1.cif
+Code:142 Error in element name:Za
+Code:142 Error in element name:Za
+Code:142 Error in element name:Za
+Code:142 Error in element name:Za
+Code:142 Error in element name:Za
+Code:142 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MON-PPT1.cif
+Code:143 Error in element name:Za
+Code:143 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MOR-PPT1.cif
+Code:144 Error in element name:Za
+Code:144 Error in element name:Za
+Code:144 Error in element name:Za
+Code:144 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MOZ-PPT1.cif
+Code:145 Error in element name:Za
+Code:145 Error in element name:Za
+Code:145 Error in element name:Za
+Code:145 Error in element name:Za
+Code:145 Error in element name:Za
+Code:145 Error in element name:Za
+Code:145 Error in element name:Za
+Code:145 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MRT-PPT1.cif
+Code:146 Error in element name:Za
+Code:146 Error in element name:Za
+Code:146 Error in element name:Za
+Code:146 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MSE-PPT1.cif
+Code:147 Error in element name:Za
+Code:147 Error in element name:Za
+Code:147 Error in element name:Za
+Code:147 Error in element name:Za
+Code:147 Error in element name:Za
+Code:147 Error in element name:Za
+Code:147 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MSO-PPT1.cif
+Code:148 Error in element name:Za
+Code:148 Error in element name:Za
+Code:148 Error in element name:Za
+Code:148 Error in element name:Za
+Code:148 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MTF-PPT1.cif
+Code:149 Error in element name:Za
+Code:149 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MTN-PPT1.cif
+Code:150 Error in element name:Za
+Code:150 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MTT-PPT1.cif
+Code:151 Error in element name:Za
+Code:151 Error in element name:Za
+Code:151 Error in element name:Za
+Code:151 Error in element name:Za
+Code:151 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MTW-PPT1.cif
+Code:152 Error in element name:Za
+Code:152 Error in element name:Za
+Code:152 Error in element name:Za
+Code:152 Error in element name:Za
+Code:152 Error in element name:Za
+Code:152 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MVY-NT.cif
+Code:153 Error in element name:Za
+Code:153 Error in element name:Za
+Code:153 Error in element name:Za
+Code:153 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MWF-PPT1.cif
+Code:154 Error in element name:Za
+Code:154 Error in element name:Za
+Code:154 Error in element name:Za
+Code:154 Error in element name:Za
+Code:154 Error in element name:Za
+Code:154 Error in element name:Za
+Code:154 Error in element name:Za
+Code:154 Error in element name:Za
+Code:154 Error in element name:Za
+Code:154 Error in element name:Za
+Code:154 Error in element name:Za
+Code:154 Error in element name:Za
+Code:154 Error in element name:Za
+Code:154 Error in element name:Za
+Code:154 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MWW-PPT1.cif
+Code:155 Error in element name:Za
+Code:155 Error in element name:Za
+Code:155 Error in element name:Za
+Code:155 Error in element name:Za
+Code:155 Error in element name:Za
+Code:155 Error in element name:Za
+Code:155 Error in element name:Za
+Code:155 Error in element name:Za
+Code:155 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\NAB-PPT1.cif
+Code:156 Error in element name:Za
+Code:156 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\NAT-PPT1.cif
+Code:157 Error in element name:Za
+Code:157 Error in element name:Za
+Code:157 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\NES-PPT1.cif
+Code:158 Error in element name:Za
+Code:158 Error in element name:Za
+Code:158 Error in element name:Za
+Code:158 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\NON-PPT1.cif
+Code:159 Error in element name:Za
+Code:159 Error in element name:Za
+Code:159 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\NPO-PPT1.cif
+Code:160 Error in element name:Za
+Code:160 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\NPT-PPT1.cif
+Code:161 Error in element name:Za
+Code:161 Error in element name:Za
+Code:161 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\NSI-PPT1.cif
+Code:162 Error in element name:Za
+Code:162 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\OBW-PPT1.cif
+Code:163 Error in element name:Za
+Code:163 Error in element name:Za
+Code:163 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\OFF-PPT1.cif
+Code:164 Error in element name:Za
+Code:164 Error in element name:Za
+Code:164 Error in element name:Za
+Code:164 Error in element name:Za
+Code:164 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\OKO-NT.cif
+Code:165 Error in element name:Za
+Code:165 Error in element name:Za
+Code:165 Error in element name:Za
+Code:165 Error in element name:Za
+Code:165 Error in element name:Za
+Code:165 Error in element name:Za
+Code:165 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\OSI-PPT1.cif
+Code:166 Error in element name:Za
+Code:166 Error in element name:Za
+Code:166 Error in element name:Za
+Code:166 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\OSO-PPT1.cif
+Code:167 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\OWE-PPT1.cif
+Code:168 Error in element name:Za
+Code:168 Error in element name:Za
+Code:168 Error in element name:Za
+Code:168 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\PAR-NT.cif
+Code:169 Error in element name:Za
+Code:169 Error in element name:Za
+Code:169 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\PAU-PPT1.cif
+Code:170 Error in element name:Za
+Code:170 Error in element name:Za
+Code:170 Error in element name:Za
+Code:170 Error in element name:Za
+Code:170 Error in element name:Za
+Code:170 Error in element name:Za
+Code:170 Error in element name:Za
+Code:170 Error in element name:Za
+Code:170 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\PCR-NT.cif
+Code:171 Error in element name:Za
+Code:171 Error in element name:Za
+Code:171 Error in element name:Za
+Code:171 Error in element name:Za
+Code:171 Error in element name:Za
+Code:171 Error in element name:Za
+Code:171 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\PHI-PPT1.cif
+Code:172 Error in element name:Za
+Code:172 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\PON-NT.cif
+Code:173 Error in element name:Za
+Code:173 Error in element name:Za
+Code:173 Error in element name:Za
+Code:173 Error in element name:Za
+Code:173 Error in element name:Za
+Code:173 Error in element name:Za
+Code:173 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\POR-PPT1.cif
+Code:174 Error in element name:Za
+Code:174 Error in element name:Za
+Code:174 Error in element name:Za
+Code:174 Error in element name:Za
+Code:174 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\POS-PPT1.cif
+Code:175 Error in element name:Za
+Code:175 Error in element name:Za
+Code:175 Error in element name:Za
+Code:175 Error in element name:Za
+Code:175 Error in element name:Za
+Code:175 Error in element name:Za
+Code:175 Error in element name:Za
+Code:175 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\PSI-PPT1.cif
+Code:176 Error in element name:Za
+Code:176 Error in element name:Za
+Code:176 Error in element name:Za
+Code:176 Error in element name:Za
+Code:176 Error in element name:Za
+Code:176 Error in element name:Za
+Code:176 Error in element name:Za
+Code:176 Error in element name:Za
+Code:176 Error in element name:Za
+Code:176 Error in element name:Za
+Code:176 Error in element name:Za
+Code:176 Error in element name:Za
+Code:176 Error in element name:Za
+Code:176 Error in element name:Za
+Code:176 Error in element name:Za
+Code:176 Error in element name:Za
+Code:176 Error in element name:Za
+Code:176 Error in element name:Za
+Code:176 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\PTF-PPT1.cif
+Code:177 Error in element name:Za
+Code:177 Error in element name:Za
+Code:177 Error in element name:Za
+Code:177 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\PTT-PPT1.cif
+Code:178 Error in element name:Za
+Code:178 Error in element name:Za
+Code:178 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\PTY-PPT1.cif
+Code:179 Error in element name:Za
+Code:179 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\PUN-PPT1.cif
+Code:180 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\PWN-PPT1.cif
+Code:181 Error in element name:Za
+Code:181 Error in element name:Za
+Code:181 Error in element name:Za
+Code:181 Error in element name:Za
+Code:181 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\PWO-PPT1.cif
+Code:182 Error in element name:Za
+Code:182 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\PWW-PPT1.cif
+Code:183 Error in element name:Za
+Code:183 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\RFE-PPT1.cif
+Code:184 Error in element name:Za
+Code:184 Error in element name:Za
+Code:184 Error in element name:Za
+Code:184 Error in element name:Za
+Code:184 Error in element name:Za
+Code:184 Error in element name:Za
+Code:184 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\RHO-PPT1.cif
+Code:185 Error in element name:Za
+Code:185 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\RRO-PPT1.cif
+Code:186 Error in element name:Za
+Code:186 Error in element name:Za
+Code:186 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\RSN-PPT1.cif
+Code:187 Error in element name:Za
+Code:187 Error in element name:Za
+Code:187 Error in element name:Za
+Code:187 Error in element name:Za
+Code:187 Error in element name:Za
+Code:187 Error in element name:Za
+Code:187 Error in element name:Za
+Code:187 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\RTE-PPT1.cif
+Code:188 Error in element name:Za
+Code:188 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\RTH-PPT1.cif
+Code:189 Error in element name:Za
+Code:189 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\RUT-PPT1.cif
+Code:190 Error in element name:Za
+Code:190 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\RWR-PPT1.cif
+Code:191 Error in element name:Za
+Code:191 Error in element name:Za
+Code:191 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\RWY-PPT1.cif
+Code:192 Error in element name:Za
+Code:192 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SAF-PPT1.cif
+Code:193 Error in element name:Za
+Code:193 Error in element name:Za
+Code:193 Error in element name:Za
+Code:193 Error in element name:Za
+Code:193 Error in element name:Za
+Code:193 Error in element name:Za
+Code:193 Error in element name:Za
+Code:193 Error in element name:Za
+Code:193 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SAO-PPT1.cif
+Code:194 Error in element name:Za
+Code:194 Error in element name:Za
+Code:194 Error in element name:Za
+Code:194 Error in element name:Za
+Code:194 Error in element name:Za
+Code:194 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SAS-PPT1.cif
+Code:195 Error in element name:Za
+Code:195 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SAT-PPT1.cif
+Code:196 Error in element name:Za
+Code:196 Error in element name:Za
+Code:196 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SAV-PPT1.cif
+Code:197 Error in element name:Za
+Code:197 Error in element name:Za
+Code:197 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SBE-PPT1.cif
+Code:198 Error in element name:Za
+Code:198 Error in element name:Za
+Code:198 Error in element name:Za
+Code:198 Error in element name:Za
+Code:198 Error in element name:Za
+Code:198 Error in element name:Za
+Code:198 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SBN-PPT1.cif
+Code:199 Error in element name:Za
+Code:199 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SBS-PPT1.cif
+Code:200 Error in element name:Za
+Code:200 Error in element name:Za
+Code:200 Error in element name:Za
+Code:200 Error in element name:Za
+Code:200 Error in element name:Za
+Code:200 Error in element name:Za
+Code:200 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SBT-PPT1.cif
+Code:201 Error in element name:Za
+Code:201 Error in element name:Za
+Code:201 Error in element name:Za
+Code:201 Error in element name:Za
+Code:201 Error in element name:Za
+Code:201 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SEW-PPT1.cif
+Code:202 Error in element name:Za
+Code:202 Error in element name:Za
+Code:202 Error in element name:Za
+Code:202 Error in element name:Za
+Code:202 Error in element name:Za
+Code:202 Error in element name:Za
+Code:202 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SFE-PPT1.cif
+Code:203 Error in element name:Za
+Code:203 Error in element name:Za
+Code:203 Error in element name:Za
+Code:203 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SFF-PPT1.cif
+Code:204 Error in element name:Za
+Code:204 Error in element name:Za
+Code:204 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SFG-PPT1.cif
+Code:205 Error in element name:Za
+Code:205 Error in element name:Za
+Code:205 Error in element name:Za
+Code:205 Error in element name:Za
+Code:205 Error in element name:Za
+Code:205 Error in element name:Za
+Code:205 Error in element name:Za
+Code:205 Error in element name:Za
+Code:205 Error in element name:Za
+Code:205 Error in element name:Za
+Code:205 Error in element name:Za
+Code:205 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SFH-PPT1.cif
+Code:206 Error in element name:Za
+Code:206 Error in element name:Za
+Code:206 Error in element name:Za
+Code:206 Error in element name:Za
+Code:206 Error in element name:Za
+Code:206 Error in element name:Za
+Code:206 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SFN-PPT1.cif
+Code:207 Error in element name:Za
+Code:207 Error in element name:Za
+Code:207 Error in element name:Za
+Code:207 Error in element name:Za
+Code:207 Error in element name:Za
+Code:207 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SFO-PPT1.cif
+Code:208 Error in element name:Za
+Code:208 Error in element name:Za
+Code:208 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SFS-PPT1.cif
+Code:209 Error in element name:Za
+Code:209 Error in element name:Za
+Code:209 Error in element name:Za
+Code:209 Error in element name:Za
+Code:209 Error in element name:Za
+Code:209 Error in element name:Za
+Code:209 Error in element name:Za
+Code:209 Error in element name:Za
+Code:209 Error in element name:Za
+Code:209 Error in element name:Za
+Code:209 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SFW-PPT1.cif
+Code:210 Error in element name:Za
+Code:210 Error in element name:Za
+Code:210 Error in element name:Za
+Code:210 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SGT-PPT1.cif
+Code:211 Error in element name:Za
+Code:211 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SIV-PPT1.cif
+Code:212 Error in element name:Za
+Code:212 Error in element name:Za
+Code:212 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SOD-PPT1.cif
+Code:213 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SOF-PPT1.cif
+Code:214 Error in element name:Za
+Code:214 Error in element name:Za
+Code:214 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SOR-PPT1.cif
+Code:215 Error in element name:Za
+Code:215 Error in element name:Za
+Code:215 Error in element name:Za
+Code:215 Error in element name:Za
+Code:215 Error in element name:Za
+Code:215 Error in element name:Za
+Code:215 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SOS-PPT1.cif
+Code:216 Error in element name:Za
+Code:216 Error in element name:Za
+Code:216 Error in element name:Za
+Code:216 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SOV-PPT1.cif
+Code:217 Error in element name:Za
+Code:217 Error in element name:Za
+Code:217 Error in element name:Za
+Code:217 Error in element name:Za
+Code:217 Error in element name:Za
+Code:217 Error in element name:Za
+Code:217 Error in element name:Za
+Code:217 Error in element name:Za
+Code:217 Error in element name:Za
+Code:217 Error in element name:Za
+Code:217 Error in element name:Za
+Code:217 Error in element name:Za
+Code:217 Error in element name:Za
+Code:217 Error in element name:Za
+Code:217 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SSF-PPT1.cif
+Code:218 Error in element name:Za
+Code:218 Error in element name:Za
+Code:218 Error in element name:Za
+Code:218 Error in element name:Za
+Code:218 Error in element name:Za
+Code:218 Error in element name:Za
+Code:218 Error in element name:Za
+Code:218 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\-SSO-NT.cif
+Code:219 Error in element name:Za
+Code:219 Error in element name:Za
+Code:219 Error in element name:Za
+Code:219 Error in element name:Za
+Code:219 Error in element name:Za
+Code:219 Error in element name:Za
+Code:219 Error in element name:Za
+Code:219 Error in element name:Za
+Code:219 Error in element name:Za
+Code:219 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SSY-PPT1.cif
+Code:220 Error in element name:Za
+Code:220 Error in element name:Za
+Code:220 Error in element name:Za
+Code:220 Error in element name:Za
+Code:220 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\STF-PPT1.cif
+Code:221 Error in element name:Za
+Code:221 Error in element name:Za
+Code:221 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\STI-PPT1.cif
+Code:222 Error in element name:Za
+Code:222 Error in element name:Za
+Code:222 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\STT-PPT1.cif
+Code:223 Error in element name:Za
+Code:223 Error in element name:Za
+Code:223 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\STW-PPT1.cif
+Code:224 Error in element name:Za
+Code:224 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SVR-PPT1.cif
+Code:225 Error in element name:Za
+Code:225 Error in element name:Za
+Code:225 Error in element name:Za
+Code:225 Error in element name:Za
+Code:225 Error in element name:Za
+Code:225 Error in element name:Za
+Code:225 Error in element name:Za
+Code:225 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SVV-PPT1.cif
+Code:226 Error in element name:Za
+Code:226 Error in element name:Za
+Code:226 Error in element name:Za
+Code:226 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SWY-PPT1.cif
+Code:227 Error in element name:Za
+Code:227 Error in element name:Za
+Code:227 Error in element name:Za
+Code:227 Error in element name:Za
+Code:227 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\-SYT-NT.cif
+Code:228 Error in element name:Za
+Code:228 Error in element name:Za
+Code:228 Error in element name:Za
+Code:228 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SZR-PPT1.cif
+Code:229 Error in element name:Za
+Code:229 Error in element name:Za
+Code:229 Error in element name:Za
+Code:229 Error in element name:Za
+Code:229 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\TER-PPT1.cif
+Code:230 Error in element name:Za
+Code:230 Error in element name:Za
+Code:230 Error in element name:Za
+Code:230 Error in element name:Za
+Code:230 Error in element name:Za
+Code:230 Error in element name:Za
+Code:230 Error in element name:Za
+Code:230 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\THO-PPT1.cif
+Code:231 Error in element name:Za
+Code:231 Error in element name:Za
+Code:231 Error in element name:Za
+Code:231 Error in element name:Za
+Code:231 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\TOL-PPT1.cif
+Code:232 Error in element name:Za
+Code:232 Error in element name:Za
+Code:232 Error in element name:Za
+Code:232 Error in element name:Za
+Code:232 Error in element name:Za
+Code:232 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\TON-PPT1.cif
+Code:233 Error in element name:Za
+Code:233 Error in element name:Za
+Code:233 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\TSC-PPT1.cif
+Code:234 Error in element name:Za
+Code:234 Error in element name:Za
+Code:234 Error in element name:Za
+Code:234 Error in element name:Za
+Code:234 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\TUN-PPT1.cif
+Code:235 Error in element name:Za
+Code:235 Error in element name:Za
+Code:235 Error in element name:Za
+Code:235 Error in element name:Za
+Code:235 Error in element name:Za
+Code:235 Error in element name:Za
+Code:235 Error in element name:Za
+Code:235 Error in element name:Za
+Code:235 Error in element name:Za
+Code:235 Error in element name:Za
+Code:235 Error in element name:Za
+Code:235 Error in element name:Za
+Code:235 Error in element name:Za
+Code:235 Error in element name:Za
+Code:235 Error in element name:Za
+Code:235 Error in element name:Za
+Code:235 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\UEI-PPT1.cif
+Code:236 Error in element name:Za
+Code:236 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\UFI-PPT1.cif
+Code:237 Error in element name:Za
+Code:237 Error in element name:Za
+Code:237 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\UOS-PPT1.cif
+Code:238 Error in element name:Za
+Code:238 Error in element name:Za
+Code:238 Error in element name:Za
+Code:238 Error in element name:Za
+Code:238 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\UOV-NT.cif
+Code:239 Error in element name:Za
+Code:239 Error in element name:Za
+Code:239 Error in element name:Za
+Code:239 Error in element name:Za
+Code:239 Error in element name:Za
+Code:239 Error in element name:Za
+Code:239 Error in element name:Za
+Code:239 Error in element name:Za
+Code:239 Error in element name:Za
+Code:239 Error in element name:Za
+Code:239 Error in element name:Za
+Code:239 Error in element name:Za
+Code:239 Error in element name:Za
+Code:239 Error in element name:Za
+Code:239 Error in element name:Za
+Code:239 Error in element name:Za
+Code:239 Error in element name:Za
+Code:239 Error in element name:Za
+Code:239 Error in element name:Za
+Code:239 Error in element name:Za
+Code:239 Error in element name:Za
+Code:239 Error in element name:Za
+Code:239 Error in element name:Za
+Code:239 Error in element name:Za
+Code:239 Error in element name:Za
+Code:239 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\UOZ-PPT1.cif
+Code:240 Error in element name:Za
+Code:240 Error in element name:Za
+Code:240 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\USI-NT.cif
+Code:241 Error in element name:Za
+Code:241 Error in element name:Za
+Code:241 Error in element name:Za
+Code:241 Error in element name:Za
+Code:241 Error in element name:Za
+Code:241 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\UTL-NT.cif
+Code:242 Error in element name:Za
+Code:242 Error in element name:Za
+Code:242 Error in element name:Za
+Code:242 Error in element name:Za
+Code:242 Error in element name:Za
+Code:242 Error in element name:Za
+Code:242 Error in element name:Za
+Code:242 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\UWY-PPT1.cif
+Code:243 Error in element name:Za
+Code:243 Error in element name:Za
+Code:243 Error in element name:Za
+Code:243 Error in element name:Za
+Code:243 Error in element name:Za
+Code:243 Error in element name:Za
+Code:243 Error in element name:Za
+Code:243 Error in element name:Za
+Code:243 Error in element name:Za
+Code:243 Error in element name:Za
+Code:243 Error in element name:Za
+Code:243 Error in element name:Za
+Code:243 Error in element name:Za
+Code:243 Error in element name:Za
+Code:243 Error in element name:Za
+Code:243 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\VET-PPT1.cif
+Code:244 Error in element name:Za
+Code:244 Error in element name:Za
+Code:244 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\VFI-PPT1.cif
+Code:245 Error in element name:Za
+Code:245 Error in element name:Za
+Code:245 Error in element name:Za
+Code:245 Error in element name:Za
+Code:245 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\VNI-PPT1.cif
+Code:246 Error in element name:Za
+Code:246 Error in element name:Za
+Code:246 Error in element name:Za
+Code:246 Error in element name:Za
+Code:246 Error in element name:Za
+Code:246 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\VSV-PPT1.cif
+Code:247 Error in element name:Za
+Code:247 Error in element name:Za
+Code:247 Error in element name:Za
+Code:247 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\WEI-PPT1.cif
+Code:248 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\WEN-PPT1.cif
+Code:249 Error in element name:Za
+Code:249 Error in element name:Za
+Code:249 Error in element name:Za
+Code:249 Error in element name:Za
+Code:249 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\YFI-PPT1.cif
+Code:250 Error in element name:Za
+Code:250 Error in element name:Za
+Code:250 Error in element name:Za
+Code:250 Error in element name:Za
+Code:250 Error in element name:Za
+Code:250 Error in element name:Za
+Code:250 Error in element name:Za
+Code:250 Error in element name:Za
+Code:250 Error in element name:Za
+Code:250 Error in element name:Za
+Code:250 Error in element name:Za
+Code:250 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\YUG-PPT1.cif
+Code:251 Error in element name:Za
+Code:251 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ZJN-PPT1.cif
+Code:252 Error in element name:Za
+Code:252 Error in element name:Za
+Code:252 Error in element name:Za
+Code:252 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ZON-PPT1.cif
+Code:253 Error in element name:Za
+Code:253 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ABW-PPT1_T.cif
+Code:254 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ACO-PPT1_T.cif
+Code:255 Error in element name:Za
+Code:255 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AEI-PPT1_T.cif
+Code:256 Error in element name:Za
+Code:256 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ABW-PPT1_T.cif
+Code:1 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ACO-PPT1_T.cif
+Code:2 Error in element name:Za
+Code:2 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AEI-PPT1_T.cif
+Code:3 Error in element name:Za
+Code:3 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AEL-PPT1.cif
+Code:4 Error in element name:Za
+Code:4 Error in element name:Za
+Code:4 Error in element name:Za
+Code:4 Error in element name:Za
+Code:4 Error in element name:Za
+Code:4 Error in element name:Za
+Code:4 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AEN-PPT1.cif
+Code:5 Error in element name:Za
+Code:5 Error in element name:Za
+Code:5 Error in element name:Za
+Code:5 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AET-PPT1.cif
+Code:6 Error in element name:Za
+Code:6 Error in element name:Za
+Code:6 Error in element name:Za
+Code:6 Error in element name:Za
+Code:6 Error in element name:Za
+Code:6 Error in element name:Za
+Code:6 Error in element name:Za
+Code:6 Error in element name:Za
+Code:6 Error in element name:Za
+Code:6 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AFG-PPT1.cif
+Code:7 Error in element name:Za
+Code:7 Error in element name:Za
+Code:7 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AFI-PPT1.cif
+Code:8 Error in element name:Za
+Code:8 Error in element name:Za
+Code:8 Error in element name:Za
+Code:8 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AFN-PPT1.cif
+Code:9 Error in element name:Za
+Code:9 Error in element name:Za
+Code:9 Error in element name:Za
+Code:9 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AFO-PPT1.cif
+Code:10 Error in element name:Za
+Code:10 Error in element name:Za
+Code:10 Error in element name:Za
+Code:10 Error in element name:Za
+Code:10 Error in element name:Za
+Code:10 Error in element name:Za
+Code:10 Error in element name:Za
+Code:10 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AFR-PPT1.cif
+Code:11 Error in element name:Za
+Code:11 Error in element name:Za
+Code:11 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AFS-PPT1.cif
+Code:12 Error in element name:Za
+Code:12 Error in element name:Za
+Code:12 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AFT-PPT1.cif
+Code:13 Error in element name:Za
+Code:13 Error in element name:Za
+Code:13 Error in element name:Za
+Code:13 Error in element name:Za
+Code:13 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AFV-PPT1.cif
+Code:14 Error in element name:Za
+Code:14 Error in element name:Za
+Code:14 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AFX-PPT1.cif
+Code:15 Error in element name:Za
+Code:15 Error in element name:Za
+Code:15 Error in element name:Za
+Code:15 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AFY-PPT1.cif
+Code:16 Error in element name:Za
+Code:16 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AHT-PPT1.cif
+Code:17 Error in element name:Za
+Code:17 Error in element name:Za
+Code:17 Error in element name:Za
+Code:17 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ANA-PPT1.cif
+Code:18 Error in element name:Za
+Code:18 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ANO-PPT1.cif
+Code:19 Error in element name:Za
+Code:19 Error in element name:Za
+Code:19 Error in element name:Za
+Code:19 Error in element name:Za
+Code:19 Error in element name:Za
+Code:19 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\APC-PPT1.cif
+Code:20 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\APD-NT.cif
+Code:21 Error in element name:Za
+Code:21 Error in element name:Za
+Code:21 Error in element name:Za
+Code:21 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AST-PPT1.cif
+Code:22 Error in element name:Za
+Code:22 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ASV-PPT1.cif
+Code:23 Error in element name:Za
+Code:23 Error in element name:Za
+Code:23 Error in element name:Za
+Code:23 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ATN-PPT1.cif
+Code:24 Error in element name:Za
+Code:24 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ATO-PPT1.cif
+Code:25 Error in element name:Za
+Code:25 Error in element name:Za
+Code:25 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ATS-PPT1.cif
+Code:26 Error in element name:Za
+Code:26 Error in element name:Za
+Code:26 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ATT-PPT1.cif
+Code:27 Error in element name:Za
+Code:27 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ATV-PPT1.cif
+Code:28 Error in element name:Za
+Code:28 Error in element name:Za
+Code:28 Error in element name:Za
+Code:28 Error in element name:Za
+Code:28 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AVE-PPT1.cif
+Code:29 Error in element name:Za
+Code:29 Error in element name:Za
+Code:29 Error in element name:Za
+Code:29 Error in element name:Za
+Code:29 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AVL-PPT1.cif
+Code:30 Error in element name:Za
+Code:30 Error in element name:Za
+Code:30 Error in element name:Za
+Code:30 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AWO-PPT1.cif
+Code:31 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\AWW-PPT1.cif
+Code:32 Error in element name:Za
+Code:32 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\BCT-PPT1.cif
+Code:33 Error in element name:Za
+Code:33 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\BEC-PPT1.cif
+Code:34 Error in element name:Za
+Code:34 Error in element name:Za
+Code:34 Error in element name:Za
+Code:34 Error in element name:Za
+Code:34 Error in element name:Za
+Code:34 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\BIK-PPT1.cif
+Code:35 Error in element name:Za
+Code:35 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\BOF-PPT1.cif
+Code:36 Error in element name:Za
+Code:36 Error in element name:Za
+Code:36 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\BOG-PPT1.cif
+Code:37 Error in element name:Za
+Code:37 Error in element name:Za
+Code:37 Error in element name:Za
+Code:37 Error in element name:Za
+Code:37 Error in element name:Za
+Code:37 Error in element name:Za
+Code:37 Error in element name:Za
+Code:37 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\BOZ-PPT1.cif
+Code:38 Error in element name:Za
+Code:38 Error in element name:Za
+Code:38 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\BPH-PPT1.cif
+Code:39 Error in element name:Za
+Code:39 Error in element name:Za
+Code:39 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\BRE-PPT1.cif
+Code:40 Error in element name:Za
+Code:40 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\BSV-PPT1.cif
+Code:41 Error in element name:Za
+Code:41 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\CAN-PPT1.cif
+Code:42 Error in element name:Za
+Code:42 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\CAS-PPT1.cif
+Code:43 Error in element name:Za
+Code:43 Error in element name:Za
+Code:43 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\CDO-PPT1.cif
+Code:44 Error in element name:Za
+Code:44 Error in element name:Za
+Code:44 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\CFI-PPT1.cif
+Code:45 Error in element name:Za
+Code:45 Error in element name:Za
+Code:45 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\CGF-NT.cif
+Code:46 Error in element name:Za
+Code:46 Error in element name:Za
+Code:46 Error in element name:Za
+Code:46 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\CGS-PPT1.cif
+Code:47 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\CHA-PPT1.cif
+Code:48 Error in element name:Za
+Code:48 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\CHI-PPT1.cif
+Code:49 Error in element name:Za
+Code:49 Error in element name:Za
+Code:49 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\CLO-PPT1.cif
+Code:50 Error in element name:Za
+Code:50 Error in element name:Za
+Code:50 Error in element name:Za
+Code:50 Error in element name:Za
+Code:50 Error in element name:Za
+Code:50 Error in element name:Za
+Code:50 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\CON_-NT.cif
+Code:51 Error in element name:Za
+Code:51 Error in element name:Za
+Code:51 Error in element name:Za
+Code:51 Error in element name:Za
+Code:51 Error in element name:Za
+Code:51 Error in element name:Za
+Code:51 Error in element name:Za
+Code:51 Error in element name:Za
+Code:51 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\CSV-PPT1.cif
+Code:52 Error in element name:Za
+Code:52 Error in element name:Za
+Code:52 Error in element name:Za
+Code:52 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\CZP-NT.cif
+Code:53 Error in element name:Za
+Code:53 Error in element name:Za
+Code:53 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\DAC-PPT1.cif
+Code:54 Error in element name:Za
+Code:54 Error in element name:Za
+Code:54 Error in element name:Za
+Code:54 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\DDR-PPT1.cif
+Code:55 Error in element name:Za
+Code:55 Error in element name:Za
+Code:55 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\DFO-PPT1.cif
+Code:56 Error in element name:Za
+Code:56 Error in element name:Za
+Code:56 Error in element name:Za
+Code:56 Error in element name:Za
+Code:56 Error in element name:Za
+Code:56 Error in element name:Za
+Code:56 Error in element name:Za
+Code:56 Error in element name:Za
+Code:56 Error in element name:Za
+Code:56 Error in element name:Za
+Code:56 Error in element name:Za
+Code:56 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\DFT-PPT1.cif
+Code:57 Error in element name:Za
+Code:57 Error in element name:Za
+Code:57 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\DOH-PPT1.cif
+Code:58 Error in element name:Za
+Code:58 Error in element name:Za
+Code:58 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\DON-PPT1.cif
+Code:59 Error in element name:Za
+Code:59 Error in element name:Za
+Code:59 Error in element name:Za
+Code:59 Error in element name:Za
+Code:59 Error in element name:Za
+Code:59 Error in element name:Za
+Code:59 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\EAB-PPT1.cif
+Code:60 Error in element name:Za
+Code:60 Error in element name:Za
+Code:60 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\EDI-PPT1.cif
+Code:61 Error in element name:Za
+Code:61 Error in element name:Za
+Code:61 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\EEI-PPT1.cif
+Code:62 Error in element name:Za
+Code:62 Error in element name:Za
+Code:62 Error in element name:Za
+Code:62 Error in element name:Za
+Code:62 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\EMT-PPT1.cif
+Code:63 Error in element name:Za
+Code:63 Error in element name:Za
+Code:63 Error in element name:Za
+Code:63 Error in element name:Za
+Code:63 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\EON-PPT1.cif
+Code:64 Error in element name:Za
+Code:64 Error in element name:Za
+Code:64 Error in element name:Za
+Code:64 Error in element name:Za
+Code:64 Error in element name:Za
+Code:64 Error in element name:Za
+Code:64 Error in element name:Za
+Code:64 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\EOS-PPT1.cif
+Code:65 Error in element name:Za
+Code:65 Error in element name:Za
+Code:65 Error in element name:Za
+Code:65 Error in element name:Za
+Code:65 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\EPI-PPT1.cif
+Code:66 Error in element name:Za
+Code:66 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ERI-PPT1.cif
+Code:67 Error in element name:Za
+Code:67 Error in element name:Za
+Code:67 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ESV-PPT1.cif
+Code:68 Error in element name:Za
+Code:68 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ETL-PPT1.cif
+Code:69 Error in element name:Za
+Code:69 Error in element name:Za
+Code:69 Error in element name:Za
+Code:69 Error in element name:Za
+Code:69 Error in element name:Za
+Code:69 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ETR-PPT1.cif
+Code:70 Error in element name:Za
+Code:70 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ETV-NT.cif
+Code:71 Error in element name:Za
+Code:71 Error in element name:Za
+Code:71 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\EUO-PPT1.cif
+Code:72 Error in element name:Za
+Code:72 Error in element name:Za
+Code:72 Error in element name:Za
+Code:72 Error in element name:Za
+Code:72 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\EWF-PPT1.cif
+Code:73 Error in element name:Za
+Code:73 Error in element name:Za
+Code:73 Error in element name:Za
+Code:73 Error in element name:Za
+Code:73 Error in element name:Za
+Code:73 Error in element name:Za
+Code:73 Error in element name:Za
+Code:73 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\EWO-PPT1.cif
+Code:74 Error in element name:Za
+Code:74 Error in element name:Za
+Code:74 Error in element name:Za
+Code:74 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\EWS-PPT1.cif
+Code:75 Error in element name:Za
+Code:75 Error in element name:Za
+Code:75 Error in element name:Za
+Code:75 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\EWT-PPT1.cif
+Code:76 Error in element name:Za
+Code:76 Error in element name:Za
+Code:76 Error in element name:Za
+Code:76 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\EZT-PPT1.cif
+Code:77 Error in element name:Za
+Code:77 Error in element name:Za
+Code:77 Error in element name:Za
+Code:77 Error in element name:Za
+Code:77 Error in element name:Za
+Code:77 Error in element name:Za
+Code:77 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\FAR-PPT1.cif
+Code:78 Error in element name:Za
+Code:78 Error in element name:Za
+Code:78 Error in element name:Za
+Code:78 Error in element name:Za
+Code:78 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\FAU-PPT1.cif
+Code:79 Error in element name:Za
+Code:79 Error in element name:Za
+Code:79 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\FER-PPT1.cif
+Code:80 Error in element name:Za
+Code:80 Error in element name:Za
+Code:80 Error in element name:Za
+Code:80 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\FRA-PPT1.cif
+Code:81 Error in element name:Za
+Code:81 Error in element name:Za
+Code:81 Error in element name:Za
+Code:81 Error in element name:Za
+Code:81 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\GIS-PPT1.cif
+Code:82 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\GIU-PPT1.cif
+Code:83 Error in element name:Za
+Code:83 Error in element name:Za
+Code:83 Error in element name:Za
+Code:83 Error in element name:Za
+Code:83 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\GME-PPT1.cif
+Code:84 Error in element name:Za
+Code:84 Error in element name:Za
+Code:84 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\GON-PPT1.cif
+Code:85 Error in element name:Za
+Code:85 Error in element name:Za
+Code:85 Error in element name:Za
+Code:85 Error in element name:Za
+Code:85 Error in element name:Za
+Code:85 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\GOO-PPT1.cif
+Code:86 Error in element name:Za
+Code:86 Error in element name:Za
+Code:86 Error in element name:Za
+Code:86 Error in element name:Za
+Code:86 Error in element name:Za
+Code:86 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\HEU-PPT1.cif
+Code:87 Error in element name:Za
+Code:87 Error in element name:Za
+Code:87 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\-HOS-PPT1.cif
+Code:88 Error in element name:Za
+Code:88 Error in element name:Za
+Code:88 Error in element name:Za
+Code:88 Error in element name:Za
+Code:88 Error in element name:Za
+Code:88 Error in element name:Za
+Code:88 Error in element name:Za
+Code:88 Error in element name:Za
+Code:88 Error in element name:Za
+Code:88 Error in element name:Za
+Code:88 Error in element name:Za
+Code:88 Error in element name:Za
+Code:88 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\HZF-NT.cif
+Code:89 Error in element name:Za
+Code:89 Error in element name:Za
+Code:89 Error in element name:Za
+Code:89 Error in element name:Za
+Code:89 Error in element name:Za
+Code:89 Error in element name:Za
+Code:89 Error in element name:Za
+Code:89 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\IFR-PPT1.cif
+Code:90 Error in element name:Za
+Code:90 Error in element name:Za
+Code:90 Error in element name:Za
+Code:90 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\IFT-PPT1.cif
+Code:91 Error in element name:Za
+Code:91 Error in element name:Za
+Code:91 Error in element name:Za
+Code:91 Error in element name:Za
+Code:91 Error in element name:Za
+Code:91 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\-IFU-PPT1.cif
+Code:92 Error in element name:Za
+Code:92 Error in element name:Za
+Code:92 Error in element name:Za
+Code:92 Error in element name:Za
+Code:92 Error in element name:Za
+Code:92 Error in element name:Za
+Code:92 Error in element name:Za
+Code:92 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\IFW-PPT1.cif
+Code:93 Error in element name:Za
+Code:93 Error in element name:Za
+Code:93 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\IFY-PPT1.cif
+Code:94 Error in element name:Za
+Code:94 Error in element name:Za
+Code:94 Error in element name:Za
+Code:94 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\IHW-PPT1.cif
+Code:95 Error in element name:Za
+Code:95 Error in element name:Za
+Code:95 Error in element name:Za
+Code:95 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\IMF-PPT1.cif
+Code:96 Error in element name:Za
+Code:96 Error in element name:Za
+Code:96 Error in element name:Za
+Code:96 Error in element name:Za
+Code:96 Error in element name:Za
+Code:96 Error in element name:Za
+Code:96 Error in element name:Za
+Code:96 Error in element name:Za
+Code:96 Error in element name:Za
+Code:96 Error in element name:Za
+Code:96 Error in element name:Za
+Code:96 Error in element name:Za
+Code:96 Error in element name:Za
+Code:96 Error in element name:Za
+Code:96 Error in element name:Za
+Code:96 Error in element name:Za
+Code:96 Error in element name:Za
+Code:96 Error in element name:Za
+Code:96 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ION-PPT1.cif
+Code:97 Error in element name:Za
+Code:97 Error in element name:Za
+Code:97 Error in element name:Za
+Code:97 Error in element name:Za
+Code:97 Error in element name:Za
+Code:97 Error in element name:Za
+Code:97 Error in element name:Za
+Code:97 Error in element name:Za
+Code:97 Error in element name:Za
+Code:97 Error in element name:Za
+Code:97 Error in element name:Za
+Code:97 Error in element name:Za
+Code:97 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\IRN-PPT1.cif
+Code:98 Error in element name:Za
+Code:98 Error in element name:Za
+Code:98 Error in element name:Za
+Code:98 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\IRR-PPT1.cif
+Code:99 Error in element name:Za
+Code:99 Error in element name:Za
+Code:99 Error in element name:Za
+Code:99 Error in element name:Za
+Code:99 Error in element name:Za
+Code:99 Error in element name:Za
+Code:99 Error in element name:Za
+Code:99 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\-IRY-PPT1.cif
+Code:100 Error in element name:Za
+Code:100 Error in element name:Za
+Code:100 Error in element name:Za
+Code:100 Error in element name:Za
+Code:100 Error in element name:Za
+Code:100 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ISV-PPT1.cif
+Code:101 Error in element name:Za
+Code:101 Error in element name:Za
+Code:101 Error in element name:Za
+Code:101 Error in element name:Za
+Code:101 Error in element name:Za
+Code:101 Error in element name:Za
+Code:101 Error in element name:Za
+Code:101 Error in element name:Za
+Code:101 Error in element name:Za
+Code:101 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ITE-PPT1.cif
+Code:102 Error in element name:Za
+Code:102 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ITG-PPT1.cif
+Code:103 Error in element name:Za
+Code:103 Error in element name:Za
+Code:103 Error in element name:Za
+Code:103 Error in element name:Za
+Code:103 Error in element name:Za
+Code:103 Error in element name:Za
+Code:103 Error in element name:Za
+Code:103 Error in element name:Za
+Code:103 Error in element name:Za
+Code:103 Error in element name:Za
+Code:103 Error in element name:Za
+Code:103 Error in element name:Za
+Code:103 Error in element name:Za
+Code:103 Error in element name:Za
+Code:103 Error in element name:Za
+Code:103 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ITH-PPT1.cif
+Code:104 Error in element name:Za
+Code:104 Error in element name:Za
+Code:104 Error in element name:Za
+Code:104 Error in element name:Za
+Code:104 Error in element name:Za
+Code:104 Error in element name:Za
+Code:104 Error in element name:Za
+Code:104 Error in element name:Za
+Code:104 Error in element name:Za
+Code:104 Error in element name:Za
+Code:104 Error in element name:Za
+Code:104 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\-ITR-PPT1.cif
+Code:105 Error in element name:Za
+Code:105 Error in element name:Za
+Code:105 Error in element name:Za
+Code:105 Error in element name:Za
+Code:105 Error in element name:Za
+Code:105 Error in element name:Za
+Code:105 Error in element name:Za
+Code:105 Error in element name:Za
+Code:105 Error in element name:Za
+Code:105 Error in element name:Za
+Code:105 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ITT-PPT1.cif
+Code:106 Error in element name:Za
+Code:106 Error in element name:Za
+Code:106 Error in element name:Za
+Code:106 Error in element name:Za
+Code:106 Error in element name:Za
+Code:106 Error in element name:Za
+Code:106 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ITW-PPT1.cif
+Code:107 Error in element name:Za
+Code:107 Error in element name:Za
+Code:107 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\IWR-PPT1.cif
+Code:108 Error in element name:Za
+Code:108 Error in element name:Za
+Code:108 Error in element name:Za
+Code:108 Error in element name:Za
+Code:108 Error in element name:Za
+Code:108 Error in element name:Za
+Code:108 Error in element name:Za
+Code:108 Error in element name:Za
+Code:108 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\IWS-PPT1.cif
+Code:109 Error in element name:Za
+Code:109 Error in element name:Za
+Code:109 Error in element name:Za
+Code:109 Error in element name:Za
+Code:109 Error in element name:Za
+Code:109 Error in element name:Za
+Code:109 Error in element name:Za
+Code:109 Error in element name:Za
+Code:109 Error in element name:Za
+Code:109 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\IWV-PPT1.cif
+Code:110 Error in element name:Za
+Code:110 Error in element name:Za
+Code:110 Error in element name:Za
+Code:110 Error in element name:Za
+Code:110 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\IWW-PPT1.cif
+Code:111 Error in element name:Za
+Code:111 Error in element name:Za
+Code:111 Error in element name:Za
+Code:111 Error in element name:Za
+Code:111 Error in element name:Za
+Code:111 Error in element name:Za
+Code:111 Error in element name:Za
+Code:111 Error in element name:Za
+Code:111 Error in element name:Za
+Code:111 Error in element name:Za
+Code:111 Error in element name:Za
+Code:111 Error in element name:Za
+Code:111 Error in element name:Za
+Code:111 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\JBW-PPT1.cif
+Code:112 Error in element name:Za
+Code:112 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\JNT-NT.cif
+Code:113 Error in element name:Za
+Code:113 Error in element name:Za
+Code:113 Error in element name:Za
+Code:113 Error in element name:Za
+Code:113 Error in element name:Za
+Code:113 Error in element name:Za
+Code:113 Error in element name:Za
+Code:113 Error in element name:Za
+Code:113 Error in element name:Za
+Code:113 Error in element name:Za
+Code:113 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\JOZ-PPT1.cif
+Code:114 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\JRY-NT.cif
+Code:115 Error in element name:Za
+Code:115 Error in element name:Za
+Code:115 Error in element name:Za
+Code:115 Error in element name:Za
+Code:115 Error in element name:Za
+Code:115 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\JSN-PPT1.cif
+Code:116 Error in element name:Za
+Code:116 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\JSR-PPT1.cif
+Code:117 Error in element name:Za
+Code:117 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\JST-PPT1.cif
+Code:118 Error in element name:Za
+Code:118 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\JSW-NT.cif
+Code:119 Error in element name:Za
+Code:119 Error in element name:Za
+Code:119 Error in element name:Za
+Code:119 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\JSY-PPT1.cif
+Code:120 Error in element name:Za
+Code:120 Error in element name:Za
+Code:120 Error in element name:Za
+Code:120 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\JZO-NT.cif
+Code:121 Error in element name:Za
+Code:121 Error in element name:Za
+Code:121 Error in element name:Za
+Code:121 Error in element name:Za
+Code:121 Error in element name:Za
+Code:121 Error in element name:Za
+Code:121 Error in element name:Za
+Code:121 Error in element name:Za
+Code:121 Error in element name:Za
+Code:121 Error in element name:Za
+Code:121 Error in element name:Za
+Code:121 Error in element name:Za
+Code:121 Error in element name:Za
+Code:121 Error in element name:Za
+Code:121 Error in element name:Za
+Code:121 Error in element name:Za
+Code:121 Error in element name:Za
+Code:121 Error in element name:Za
+Code:121 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\JZT-NT.cif
+Code:122 Error in element name:Za
+Code:122 Error in element name:Za
+Code:122 Error in element name:Za
+Code:122 Error in element name:Za
+Code:122 Error in element name:Za
+Code:122 Error in element name:Za
+Code:122 Error in element name:Za
+Code:122 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\KFI-PPT1.cif
+Code:123 Error in element name:Za
+Code:123 Error in element name:Za
+Code:123 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\LAU-PPT1.cif
+Code:124 Error in element name:Za
+Code:124 Error in element name:Za
+Code:124 Error in element name:Za
+Code:124 Error in element name:Za
+Code:124 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\LEV-PPT1.cif
+Code:125 Error in element name:Za
+Code:125 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\LIO-PPT1.cif
+Code:126 Error in element name:Za
+Code:126 Error in element name:Za
+Code:126 Error in element name:Za
+Code:126 Error in element name:Za
+Code:126 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\LIT-PPT1.cif
+Code:127 Error in element name:Za
+Code:127 Error in element name:Za
+Code:127 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\LOS-PPT1.cif
+Code:128 Error in element name:Za
+Code:128 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\LOV-PPT1.cif
+Code:129 Error in element name:Za
+Code:129 Error in element name:Za
+Code:129 Error in element name:Za
+Code:129 Error in element name:Za
+Code:129 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\LTA-PPT1.cif
+Code:130 Error in element name:Za
+Code:130 Error in element name:Za
+Code:130 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\LTF-PPT1.cif
+Code:131 Error in element name:Za
+Code:131 Error in element name:Za
+Code:131 Error in element name:Za
+Code:131 Error in element name:Za
+Code:131 Error in element name:Za
+Code:131 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\LTJ-PPT1.cif
+Code:132 Error in element name:Za
+Code:132 Error in element name:Za
+Code:132 Error in element name:Za
+Code:132 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\LTL-PPT1.cif
+Code:133 Error in element name:Za
+Code:133 Error in element name:Za
+Code:133 Error in element name:Za
+Code:133 Error in element name:Za
+Code:133 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\LTN-PPT1.cif
+Code:134 Error in element name:Za
+Code:134 Error in element name:Za
+Code:134 Error in element name:Za
+Code:134 Error in element name:Za
+Code:134 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MAR-PPT1.cif
+Code:135 Error in element name:Za
+Code:135 Error in element name:Za
+Code:135 Error in element name:Za
+Code:135 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MAZ-PPT1.cif
+Code:136 Error in element name:Za
+Code:136 Error in element name:Za
+Code:136 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MEI-PPT1.cif
+Code:137 Error in element name:Za
+Code:137 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MEL-PPT1.cif
+Code:138 Error in element name:Za
+Code:138 Error in element name:Za
+Code:138 Error in element name:Za
+Code:138 Error in element name:Za
+Code:138 Error in element name:Za
+Code:138 Error in element name:Za
+Code:138 Error in element name:Za
+Code:138 Error in element name:Za
+Code:138 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MEP-PPT1.cif
+Code:139 Error in element name:Za
+Code:139 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MER-PPT1.cif
+Code:140 Error in element name:Za
+Code:140 Error in element name:Za
+Code:140 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MFI-PPT1.cif
+Code:141 Error in element name:Za
+Code:141 Error in element name:Za
+Code:141 Error in element name:Za
+Code:141 Error in element name:Za
+Code:141 Error in element name:Za
+Code:141 Error in element name:Za
+Code:141 Error in element name:Za
+Code:141 Error in element name:Za
+Code:141 Error in element name:Za
+Code:141 Error in element name:Za
+Code:141 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MFS-PPT1.cif
+Code:142 Error in element name:Za
+Code:142 Error in element name:Za
+Code:142 Error in element name:Za
+Code:142 Error in element name:Za
+Code:142 Error in element name:Za
+Code:142 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MON-PPT1.cif
+Code:143 Error in element name:Za
+Code:143 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MOR-PPT1.cif
+Code:144 Error in element name:Za
+Code:144 Error in element name:Za
+Code:144 Error in element name:Za
+Code:144 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MOZ-PPT1.cif
+Code:145 Error in element name:Za
+Code:145 Error in element name:Za
+Code:145 Error in element name:Za
+Code:145 Error in element name:Za
+Code:145 Error in element name:Za
+Code:145 Error in element name:Za
+Code:145 Error in element name:Za
+Code:145 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MRT-PPT1.cif
+Code:146 Error in element name:Za
+Code:146 Error in element name:Za
+Code:146 Error in element name:Za
+Code:146 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MSE-PPT1.cif
+Code:147 Error in element name:Za
+Code:147 Error in element name:Za
+Code:147 Error in element name:Za
+Code:147 Error in element name:Za
+Code:147 Error in element name:Za
+Code:147 Error in element name:Za
+Code:147 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MSO-PPT1.cif
+Code:148 Error in element name:Za
+Code:148 Error in element name:Za
+Code:148 Error in element name:Za
+Code:148 Error in element name:Za
+Code:148 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MTF-PPT1.cif
+Code:149 Error in element name:Za
+Code:149 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MTN-PPT1.cif
+Code:150 Error in element name:Za
+Code:150 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MTT-PPT1.cif
+Code:151 Error in element name:Za
+Code:151 Error in element name:Za
+Code:151 Error in element name:Za
+Code:151 Error in element name:Za
+Code:151 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MTW-PPT1.cif
+Code:152 Error in element name:Za
+Code:152 Error in element name:Za
+Code:152 Error in element name:Za
+Code:152 Error in element name:Za
+Code:152 Error in element name:Za
+Code:152 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MVY-NT.cif
+Code:153 Error in element name:Za
+Code:153 Error in element name:Za
+Code:153 Error in element name:Za
+Code:153 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MWF-PPT1.cif
+Code:154 Error in element name:Za
+Code:154 Error in element name:Za
+Code:154 Error in element name:Za
+Code:154 Error in element name:Za
+Code:154 Error in element name:Za
+Code:154 Error in element name:Za
+Code:154 Error in element name:Za
+Code:154 Error in element name:Za
+Code:154 Error in element name:Za
+Code:154 Error in element name:Za
+Code:154 Error in element name:Za
+Code:154 Error in element name:Za
+Code:154 Error in element name:Za
+Code:154 Error in element name:Za
+Code:154 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\MWW-PPT1.cif
+Code:155 Error in element name:Za
+Code:155 Error in element name:Za
+Code:155 Error in element name:Za
+Code:155 Error in element name:Za
+Code:155 Error in element name:Za
+Code:155 Error in element name:Za
+Code:155 Error in element name:Za
+Code:155 Error in element name:Za
+Code:155 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\NAB-PPT1.cif
+Code:156 Error in element name:Za
+Code:156 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\NAT-PPT1.cif
+Code:157 Error in element name:Za
+Code:157 Error in element name:Za
+Code:157 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\NES-PPT1.cif
+Code:158 Error in element name:Za
+Code:158 Error in element name:Za
+Code:158 Error in element name:Za
+Code:158 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\NON-PPT1.cif
+Code:159 Error in element name:Za
+Code:159 Error in element name:Za
+Code:159 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\NPO-PPT1.cif
+Code:160 Error in element name:Za
+Code:160 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\NPT-PPT1.cif
+Code:161 Error in element name:Za
+Code:161 Error in element name:Za
+Code:161 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\NSI-PPT1.cif
+Code:162 Error in element name:Za
+Code:162 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\OBW-PPT1.cif
+Code:163 Error in element name:Za
+Code:163 Error in element name:Za
+Code:163 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\OFF-PPT1.cif
+Code:164 Error in element name:Za
+Code:164 Error in element name:Za
+Code:164 Error in element name:Za
+Code:164 Error in element name:Za
+Code:164 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\OKO-NT.cif
+Code:165 Error in element name:Za
+Code:165 Error in element name:Za
+Code:165 Error in element name:Za
+Code:165 Error in element name:Za
+Code:165 Error in element name:Za
+Code:165 Error in element name:Za
+Code:165 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\OSI-PPT1.cif
+Code:166 Error in element name:Za
+Code:166 Error in element name:Za
+Code:166 Error in element name:Za
+Code:166 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\OSO-PPT1.cif
+Code:167 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\OWE-PPT1.cif
+Code:168 Error in element name:Za
+Code:168 Error in element name:Za
+Code:168 Error in element name:Za
+Code:168 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\PAR-NT.cif
+Code:169 Error in element name:Za
+Code:169 Error in element name:Za
+Code:169 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\PAU-PPT1.cif
+Code:170 Error in element name:Za
+Code:170 Error in element name:Za
+Code:170 Error in element name:Za
+Code:170 Error in element name:Za
+Code:170 Error in element name:Za
+Code:170 Error in element name:Za
+Code:170 Error in element name:Za
+Code:170 Error in element name:Za
+Code:170 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\PCR-NT.cif
+Code:171 Error in element name:Za
+Code:171 Error in element name:Za
+Code:171 Error in element name:Za
+Code:171 Error in element name:Za
+Code:171 Error in element name:Za
+Code:171 Error in element name:Za
+Code:171 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\PHI-PPT1.cif
+Code:172 Error in element name:Za
+Code:172 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\PON-NT.cif
+Code:173 Error in element name:Za
+Code:173 Error in element name:Za
+Code:173 Error in element name:Za
+Code:173 Error in element name:Za
+Code:173 Error in element name:Za
+Code:173 Error in element name:Za
+Code:173 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\POR-PPT1.cif
+Code:174 Error in element name:Za
+Code:174 Error in element name:Za
+Code:174 Error in element name:Za
+Code:174 Error in element name:Za
+Code:174 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\POS-PPT1.cif
+Code:175 Error in element name:Za
+Code:175 Error in element name:Za
+Code:175 Error in element name:Za
+Code:175 Error in element name:Za
+Code:175 Error in element name:Za
+Code:175 Error in element name:Za
+Code:175 Error in element name:Za
+Code:175 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\PSI-PPT1.cif
+Code:176 Error in element name:Za
+Code:176 Error in element name:Za
+Code:176 Error in element name:Za
+Code:176 Error in element name:Za
+Code:176 Error in element name:Za
+Code:176 Error in element name:Za
+Code:176 Error in element name:Za
+Code:176 Error in element name:Za
+Code:176 Error in element name:Za
+Code:176 Error in element name:Za
+Code:176 Error in element name:Za
+Code:176 Error in element name:Za
+Code:176 Error in element name:Za
+Code:176 Error in element name:Za
+Code:176 Error in element name:Za
+Code:176 Error in element name:Za
+Code:176 Error in element name:Za
+Code:176 Error in element name:Za
+Code:176 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\PTF-PPT1.cif
+Code:177 Error in element name:Za
+Code:177 Error in element name:Za
+Code:177 Error in element name:Za
+Code:177 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\PTT-PPT1.cif
+Code:178 Error in element name:Za
+Code:178 Error in element name:Za
+Code:178 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\PTY-PPT1.cif
+Code:179 Error in element name:Za
+Code:179 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\PUN-PPT1.cif
+Code:180 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\PWN-PPT1.cif
+Code:181 Error in element name:Za
+Code:181 Error in element name:Za
+Code:181 Error in element name:Za
+Code:181 Error in element name:Za
+Code:181 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\PWO-PPT1.cif
+Code:182 Error in element name:Za
+Code:182 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\PWW-PPT1.cif
+Code:183 Error in element name:Za
+Code:183 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\RFE-PPT1.cif
+Code:184 Error in element name:Za
+Code:184 Error in element name:Za
+Code:184 Error in element name:Za
+Code:184 Error in element name:Za
+Code:184 Error in element name:Za
+Code:184 Error in element name:Za
+Code:184 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\RHO-PPT1.cif
+Code:185 Error in element name:Za
+Code:185 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\RRO-PPT1.cif
+Code:186 Error in element name:Za
+Code:186 Error in element name:Za
+Code:186 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\RSN-PPT1.cif
+Code:187 Error in element name:Za
+Code:187 Error in element name:Za
+Code:187 Error in element name:Za
+Code:187 Error in element name:Za
+Code:187 Error in element name:Za
+Code:187 Error in element name:Za
+Code:187 Error in element name:Za
+Code:187 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\RTE-PPT1.cif
+Code:188 Error in element name:Za
+Code:188 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\RTH-PPT1.cif
+Code:189 Error in element name:Za
+Code:189 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\RUT-PPT1.cif
+Code:190 Error in element name:Za
+Code:190 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\RWR-PPT1.cif
+Code:191 Error in element name:Za
+Code:191 Error in element name:Za
+Code:191 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\RWY-PPT1.cif
+Code:192 Error in element name:Za
+Code:192 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SAF-PPT1.cif
+Code:193 Error in element name:Za
+Code:193 Error in element name:Za
+Code:193 Error in element name:Za
+Code:193 Error in element name:Za
+Code:193 Error in element name:Za
+Code:193 Error in element name:Za
+Code:193 Error in element name:Za
+Code:193 Error in element name:Za
+Code:193 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SAO-PPT1.cif
+Code:194 Error in element name:Za
+Code:194 Error in element name:Za
+Code:194 Error in element name:Za
+Code:194 Error in element name:Za
+Code:194 Error in element name:Za
+Code:194 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SAS-PPT1.cif
+Code:195 Error in element name:Za
+Code:195 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SAT-PPT1.cif
+Code:196 Error in element name:Za
+Code:196 Error in element name:Za
+Code:196 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SAV-PPT1.cif
+Code:197 Error in element name:Za
+Code:197 Error in element name:Za
+Code:197 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SBE-PPT1.cif
+Code:198 Error in element name:Za
+Code:198 Error in element name:Za
+Code:198 Error in element name:Za
+Code:198 Error in element name:Za
+Code:198 Error in element name:Za
+Code:198 Error in element name:Za
+Code:198 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SBN-PPT1.cif
+Code:199 Error in element name:Za
+Code:199 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SBS-PPT1.cif
+Code:200 Error in element name:Za
+Code:200 Error in element name:Za
+Code:200 Error in element name:Za
+Code:200 Error in element name:Za
+Code:200 Error in element name:Za
+Code:200 Error in element name:Za
+Code:200 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SBT-PPT1.cif
+Code:201 Error in element name:Za
+Code:201 Error in element name:Za
+Code:201 Error in element name:Za
+Code:201 Error in element name:Za
+Code:201 Error in element name:Za
+Code:201 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SEW-PPT1.cif
+Code:202 Error in element name:Za
+Code:202 Error in element name:Za
+Code:202 Error in element name:Za
+Code:202 Error in element name:Za
+Code:202 Error in element name:Za
+Code:202 Error in element name:Za
+Code:202 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SFE-PPT1.cif
+Code:203 Error in element name:Za
+Code:203 Error in element name:Za
+Code:203 Error in element name:Za
+Code:203 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SFF-PPT1.cif
+Code:204 Error in element name:Za
+Code:204 Error in element name:Za
+Code:204 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SFG-PPT1.cif
+Code:205 Error in element name:Za
+Code:205 Error in element name:Za
+Code:205 Error in element name:Za
+Code:205 Error in element name:Za
+Code:205 Error in element name:Za
+Code:205 Error in element name:Za
+Code:205 Error in element name:Za
+Code:205 Error in element name:Za
+Code:205 Error in element name:Za
+Code:205 Error in element name:Za
+Code:205 Error in element name:Za
+Code:205 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SFH-PPT1.cif
+Code:206 Error in element name:Za
+Code:206 Error in element name:Za
+Code:206 Error in element name:Za
+Code:206 Error in element name:Za
+Code:206 Error in element name:Za
+Code:206 Error in element name:Za
+Code:206 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SFN-PPT1.cif
+Code:207 Error in element name:Za
+Code:207 Error in element name:Za
+Code:207 Error in element name:Za
+Code:207 Error in element name:Za
+Code:207 Error in element name:Za
+Code:207 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SFO-PPT1.cif
+Code:208 Error in element name:Za
+Code:208 Error in element name:Za
+Code:208 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SFS-PPT1.cif
+Code:209 Error in element name:Za
+Code:209 Error in element name:Za
+Code:209 Error in element name:Za
+Code:209 Error in element name:Za
+Code:209 Error in element name:Za
+Code:209 Error in element name:Za
+Code:209 Error in element name:Za
+Code:209 Error in element name:Za
+Code:209 Error in element name:Za
+Code:209 Error in element name:Za
+Code:209 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SFW-PPT1.cif
+Code:210 Error in element name:Za
+Code:210 Error in element name:Za
+Code:210 Error in element name:Za
+Code:210 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SGT-PPT1.cif
+Code:211 Error in element name:Za
+Code:211 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SIV-PPT1.cif
+Code:212 Error in element name:Za
+Code:212 Error in element name:Za
+Code:212 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SOD-PPT1.cif
+Code:213 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SOF-PPT1.cif
+Code:214 Error in element name:Za
+Code:214 Error in element name:Za
+Code:214 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SOR-PPT1.cif
+Code:215 Error in element name:Za
+Code:215 Error in element name:Za
+Code:215 Error in element name:Za
+Code:215 Error in element name:Za
+Code:215 Error in element name:Za
+Code:215 Error in element name:Za
+Code:215 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SOS-PPT1.cif
+Code:216 Error in element name:Za
+Code:216 Error in element name:Za
+Code:216 Error in element name:Za
+Code:216 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SOV-PPT1.cif
+Code:217 Error in element name:Za
+Code:217 Error in element name:Za
+Code:217 Error in element name:Za
+Code:217 Error in element name:Za
+Code:217 Error in element name:Za
+Code:217 Error in element name:Za
+Code:217 Error in element name:Za
+Code:217 Error in element name:Za
+Code:217 Error in element name:Za
+Code:217 Error in element name:Za
+Code:217 Error in element name:Za
+Code:217 Error in element name:Za
+Code:217 Error in element name:Za
+Code:217 Error in element name:Za
+Code:217 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SSF-PPT1.cif
+Code:218 Error in element name:Za
+Code:218 Error in element name:Za
+Code:218 Error in element name:Za
+Code:218 Error in element name:Za
+Code:218 Error in element name:Za
+Code:218 Error in element name:Za
+Code:218 Error in element name:Za
+Code:218 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\-SSO-NT.cif
+Code:219 Error in element name:Za
+Code:219 Error in element name:Za
+Code:219 Error in element name:Za
+Code:219 Error in element name:Za
+Code:219 Error in element name:Za
+Code:219 Error in element name:Za
+Code:219 Error in element name:Za
+Code:219 Error in element name:Za
+Code:219 Error in element name:Za
+Code:219 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SSY-PPT1.cif
+Code:220 Error in element name:Za
+Code:220 Error in element name:Za
+Code:220 Error in element name:Za
+Code:220 Error in element name:Za
+Code:220 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\STF-PPT1.cif
+Code:221 Error in element name:Za
+Code:221 Error in element name:Za
+Code:221 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\STI-PPT1.cif
+Code:222 Error in element name:Za
+Code:222 Error in element name:Za
+Code:222 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\STT-PPT1.cif
+Code:223 Error in element name:Za
+Code:223 Error in element name:Za
+Code:223 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\STW-PPT1.cif
+Code:224 Error in element name:Za
+Code:224 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SVR-PPT1.cif
+Code:225 Error in element name:Za
+Code:225 Error in element name:Za
+Code:225 Error in element name:Za
+Code:225 Error in element name:Za
+Code:225 Error in element name:Za
+Code:225 Error in element name:Za
+Code:225 Error in element name:Za
+Code:225 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SVV-PPT1.cif
+Code:226 Error in element name:Za
+Code:226 Error in element name:Za
+Code:226 Error in element name:Za
+Code:226 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SWY-PPT1.cif
+Code:227 Error in element name:Za
+Code:227 Error in element name:Za
+Code:227 Error in element name:Za
+Code:227 Error in element name:Za
+Code:227 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\-SYT-NT.cif
+Code:228 Error in element name:Za
+Code:228 Error in element name:Za
+Code:228 Error in element name:Za
+Code:228 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\SZR-PPT1.cif
+Code:229 Error in element name:Za
+Code:229 Error in element name:Za
+Code:229 Error in element name:Za
+Code:229 Error in element name:Za
+Code:229 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\TER-PPT1.cif
+Code:230 Error in element name:Za
+Code:230 Error in element name:Za
+Code:230 Error in element name:Za
+Code:230 Error in element name:Za
+Code:230 Error in element name:Za
+Code:230 Error in element name:Za
+Code:230 Error in element name:Za
+Code:230 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\THO-PPT1.cif
+Code:231 Error in element name:Za
+Code:231 Error in element name:Za
+Code:231 Error in element name:Za
+Code:231 Error in element name:Za
+Code:231 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\TOL-PPT1.cif
+Code:232 Error in element name:Za
+Code:232 Error in element name:Za
+Code:232 Error in element name:Za
+Code:232 Error in element name:Za
+Code:232 Error in element name:Za
+Code:232 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\TON-PPT1.cif
+Code:233 Error in element name:Za
+Code:233 Error in element name:Za
+Code:233 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\TSC-PPT1.cif
+Code:234 Error in element name:Za
+Code:234 Error in element name:Za
+Code:234 Error in element name:Za
+Code:234 Error in element name:Za
+Code:234 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\TUN-PPT1.cif
+Code:235 Error in element name:Za
+Code:235 Error in element name:Za
+Code:235 Error in element name:Za
+Code:235 Error in element name:Za
+Code:235 Error in element name:Za
+Code:235 Error in element name:Za
+Code:235 Error in element name:Za
+Code:235 Error in element name:Za
+Code:235 Error in element name:Za
+Code:235 Error in element name:Za
+Code:235 Error in element name:Za
+Code:235 Error in element name:Za
+Code:235 Error in element name:Za
+Code:235 Error in element name:Za
+Code:235 Error in element name:Za
+Code:235 Error in element name:Za
+Code:235 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\UEI-PPT1.cif
+Code:236 Error in element name:Za
+Code:236 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\UFI-PPT1.cif
+Code:237 Error in element name:Za
+Code:237 Error in element name:Za
+Code:237 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\UOS-PPT1.cif
+Code:238 Error in element name:Za
+Code:238 Error in element name:Za
+Code:238 Error in element name:Za
+Code:238 Error in element name:Za
+Code:238 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\UOV-NT.cif
+Code:239 Error in element name:Za
+Code:239 Error in element name:Za
+Code:239 Error in element name:Za
+Code:239 Error in element name:Za
+Code:239 Error in element name:Za
+Code:239 Error in element name:Za
+Code:239 Error in element name:Za
+Code:239 Error in element name:Za
+Code:239 Error in element name:Za
+Code:239 Error in element name:Za
+Code:239 Error in element name:Za
+Code:239 Error in element name:Za
+Code:239 Error in element name:Za
+Code:239 Error in element name:Za
+Code:239 Error in element name:Za
+Code:239 Error in element name:Za
+Code:239 Error in element name:Za
+Code:239 Error in element name:Za
+Code:239 Error in element name:Za
+Code:239 Error in element name:Za
+Code:239 Error in element name:Za
+Code:239 Error in element name:Za
+Code:239 Error in element name:Za
+Code:239 Error in element name:Za
+Code:239 Error in element name:Za
+Code:239 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\UOZ-PPT1.cif
+Code:240 Error in element name:Za
+Code:240 Error in element name:Za
+Code:240 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\USI-NT.cif
+Code:241 Error in element name:Za
+Code:241 Error in element name:Za
+Code:241 Error in element name:Za
+Code:241 Error in element name:Za
+Code:241 Error in element name:Za
+Code:241 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\UTL-NT.cif
+Code:242 Error in element name:Za
+Code:242 Error in element name:Za
+Code:242 Error in element name:Za
+Code:242 Error in element name:Za
+Code:242 Error in element name:Za
+Code:242 Error in element name:Za
+Code:242 Error in element name:Za
+Code:242 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\UWY-PPT1.cif
+Code:243 Error in element name:Za
+Code:243 Error in element name:Za
+Code:243 Error in element name:Za
+Code:243 Error in element name:Za
+Code:243 Error in element name:Za
+Code:243 Error in element name:Za
+Code:243 Error in element name:Za
+Code:243 Error in element name:Za
+Code:243 Error in element name:Za
+Code:243 Error in element name:Za
+Code:243 Error in element name:Za
+Code:243 Error in element name:Za
+Code:243 Error in element name:Za
+Code:243 Error in element name:Za
+Code:243 Error in element name:Za
+Code:243 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\VET-PPT1.cif
+Code:244 Error in element name:Za
+Code:244 Error in element name:Za
+Code:244 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\VFI-PPT1.cif
+Code:245 Error in element name:Za
+Code:245 Error in element name:Za
+Code:245 Error in element name:Za
+Code:245 Error in element name:Za
+Code:245 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\VNI-PPT1.cif
+Code:246 Error in element name:Za
+Code:246 Error in element name:Za
+Code:246 Error in element name:Za
+Code:246 Error in element name:Za
+Code:246 Error in element name:Za
+Code:246 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\VSV-PPT1.cif
+Code:247 Error in element name:Za
+Code:247 Error in element name:Za
+Code:247 Error in element name:Za
+Code:247 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\WEI-PPT1.cif
+Code:248 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\WEN-PPT1.cif
+Code:249 Error in element name:Za
+Code:249 Error in element name:Za
+Code:249 Error in element name:Za
+Code:249 Error in element name:Za
+Code:249 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\YFI-PPT1.cif
+Code:250 Error in element name:Za
+Code:250 Error in element name:Za
+Code:250 Error in element name:Za
+Code:250 Error in element name:Za
+Code:250 Error in element name:Za
+Code:250 Error in element name:Za
+Code:250 Error in element name:Za
+Code:250 Error in element name:Za
+Code:250 Error in element name:Za
+Code:250 Error in element name:Za
+Code:250 Error in element name:Za
+Code:250 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\YUG-PPT1.cif
+Code:251 Error in element name:Za
+Code:251 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ZJN-PPT1.cif
+Code:252 Error in element name:Za
+Code:252 Error in element name:Za
+Code:252 Error in element name:Za
+Code:252 Error in element name:Za
+P:\Project\Program\ToposPro\MScif2Toposcif\outTest\ZON-PPT1.cif
+Code:253 Error in element name:Za
+Code:253 Error in element name:Za

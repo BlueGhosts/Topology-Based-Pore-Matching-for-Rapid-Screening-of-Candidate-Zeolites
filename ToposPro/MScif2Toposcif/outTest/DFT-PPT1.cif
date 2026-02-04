@@ -1,0 +1,60 @@
+data_DFT-PPT1
+_audit_creation_method             	Write2Cif_ToposPro  
+_symmetry_space_group_name_H-M     	P42/MMC             
+_symmetry_Int_Tables_number        	131                 
+_symmetry_cell_setting             	tetragonal system   
+_cell_length_a                     	7.075               
+_cell_length_b                     	7.075               
+_cell_length_c                     	9.023               
+_cell_angle_alpha                  	90.0                
+_cell_angle_beta                   	90.0                
+_cell_angle_gamma                  	90.0                
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-x,-y,z
+-y,x,z+1/2
+y,-x,z+1/2
+-x,y,-z
+x,-y,-z
+y,x,-z+1/2
+-y,-x,-z+1/2
+-x,-y,-z
+x,y,-z
+y,-x,-z+1/2
+-y,x,-z+1/2
+x,-y,z
+-x,y,z
+-y,-x,z+1/2
+y,x,z+1/2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1        	O         	0.6857    	0.3143    	0.25      
+O2        	O         	0.7258    	0.5       	0.0       
+O3        	O         	0.0       	0.5       	0.1976    
+Si1       	Si        	0.7749    	0.5       	0.174     
+ZA1       	ZA        	0.0       	0.0       	0.0       
+ZA2       	ZA        	0.5       	0.5       	0.0       
+ZA3       	ZA        	0.5       	0.0       	0.0       
+loop_
+_topos_bond_atom_site_label_1
+_topos_bond_atom_site_label_2
+_topos_bond_site_symmetry_1
+_topos_bond_site_symmetry_2
+_topos_bond_distance
+_topos_bond_type
+O1   	Si1  	1_0_0_0   	8_1_1_0   	1.611  V    
+O2   	Si1  	1_0_0_0   	6_0_1_0   	1.608  V    
+O3   	Si1  	1_0_0_0   	1_-1_0_0  	1.607  V    
+O3   	Si1  	1_0_0_0   	2_1_1_0   	1.607  V    
+Si1  	O1   	1_0_0_0   	12_1_0_0  	1.611  V    
+Si1  	O3   	1_0_0_0   	1_1_0_0   	1.607  V    
+ZA1  	ZA3  	1_0_0_0   	1_0_0_0   	3.538  V    
+ZA1  	ZA3  	1_0_0_0   	1_-1_0_0  	3.538  V    
+ZA1  	ZA1  	1_0_0_0   	3_0_0_-1  	4.511  V    
+ZA1  	ZA1  	1_0_0_0   	3_0_0_0   	4.511  V    
+ZA3  	ZA1  	1_0_0_0   	1_1_0_0   	3.538  V    

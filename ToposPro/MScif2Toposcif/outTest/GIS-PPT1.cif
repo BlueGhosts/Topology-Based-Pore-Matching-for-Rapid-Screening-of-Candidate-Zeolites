@@ -1,0 +1,72 @@
+data_GIS-PPT1
+_audit_creation_method             	Write2Cif_ToposPro  
+_symmetry_space_group_name_H-M     	I41/AMD             
+_symmetry_Int_Tables_number        	141                 
+_symmetry_cell_setting             	tetragonal system   
+_cell_length_a                     	9.801               
+_cell_length_b                     	9.801               
+_cell_length_c                     	10.158              
+_cell_angle_alpha                  	90.0                
+_cell_angle_beta                   	90.0                
+_cell_angle_gamma                  	90.0                
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-x+1/2,-y+1/2,z+1/2
+-y,x+1/2,z+1/4
+y+1/2,-x,z+3/4
+-x+1/2,y,-z+3/4
+x,-y+1/2,-z+1/4
+y+1/2,x+1/2,-z+1/2
+-y,-x,-z
+-x,-y+1/2,-z+1/4
+x+1/2,y,-z+3/4
+y,-x,-z
+-y+1/2,x+1/2,-z+1/2
+x+1/2,-y+1/2,z+1/2
+-x,y,z
+-y+1/2,-x,z+3/4
+y,x+1/2,z+1/4
+x+1/2,y+1/2,z+1/2
+-x,-y,z
+-y+1/2,x,z+3/4
+y,-x+1/2,z+1/4
+-x,y+1/2,-z+1/4
+x+1/2,-y,-z+3/4
+y,x,-z
+-y+1/2,-x+1/2,-z+1/2
+-x+1/2,-y,-z+3/4
+x,y+1/2,-z+1/4
+y+1/2,-x+1/2,-z+1/2
+-y,x,-z
+x,-y,z
+-x+1/2,y+1/2,z+1/2
+-y,-x+1/2,z+1/4
+y+1/2,x,z+3/4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1        	O         	0.5       	0.8167    	0.2835    
+O2        	O         	0.75      	0.7986    	0.375     
+Si1       	Si        	0.6586    	0.8414    	0.25      
+ZA1       	ZA        	0.5       	0.0       	0.75      
+loop_
+_topos_bond_atom_site_label_1
+_topos_bond_atom_site_label_2
+_topos_bond_site_symmetry_1
+_topos_bond_site_symmetry_2
+_topos_bond_distance
+_topos_bond_type
+O1   	Si1  	1_0_0_0   	1_0_0_0   	1.61   V    
+O1   	Si1  	1_0_0_0   	14_1_0_0  	1.61   V    
+O2   	Si1  	1_0_0_0   	1_0_0_0   	1.61   V    
+O2   	Si1  	1_0_0_0   	5_1_0_0   	1.61   V    
+Si1  	O1   	1_0_0_0   	12_1_0_0  	1.61   V    
+Si1  	O2   	1_0_0_0   	19_1_0_-1 	1.61   V    
+ZA1  	ZA1  	1_0_0_0   	4_0_1_-1  	5.519  V    
+ZA1  	ZA1  	1_0_0_0   	3_1_-1_0  	5.519  V    
+ZA1  	ZA1  	1_0_0_0   	3_0_-1_0  	5.519  V    
+ZA1  	ZA1  	1_0_0_0   	4_0_0_-1  	5.519  V    

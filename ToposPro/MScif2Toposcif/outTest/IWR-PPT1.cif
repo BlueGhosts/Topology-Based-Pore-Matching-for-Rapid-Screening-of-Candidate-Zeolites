@@ -1,0 +1,100 @@
+data_IWR-PPT1
+_audit_creation_method             	Write2Cif_ToposPro  
+_symmetry_space_group_name_H-M     	CMMM                
+_symmetry_Int_Tables_number        	65                  
+_symmetry_cell_setting             	orthorhombic system 
+_cell_length_a                     	21.233              
+_cell_length_b                     	13.302              
+_cell_length_c                     	12.676              
+_cell_angle_alpha                  	90.0                
+_cell_angle_beta                   	90.0                
+_cell_angle_gamma                  	90.0                
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-x,-y,z
+-x,y,-z
+x,-y,-z
+-x,-y,-z
+x,y,-z
+x,-y,z
+-x,y,z
+x+1/2,y+1/2,z
+-x+1/2,-y+1/2,z
+-x+1/2,y+1/2,-z
+x+1/2,-y+1/2,-z
+-x+1/2,-y+1/2,-z
+x+1/2,y+1/2,-z
+x+1/2,-y+1/2,z
+-x+1/2,y+1/2,z
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1        	O         	0.099     	0.1723    	0.1037    
+O2        	O         	0.1181    	0.1847    	0.3075    
+O3        	O         	0.21      	0.1263    	0.1812    
+O4        	O         	0.1722    	0.3143    	0.1788    
+Si1       	Si        	0.072     	0.1156    	0.3777    
+Si2       	Si        	0.15      	0.1994    	0.1933    
+Si3       	Si        	0.2765    	0.1153    	0.1213    
+O5        	O         	0.0       	0.11      	0.0       
+O6        	O         	0.1022    	0.0       	0.0       
+ZA6       	ZA        	0.18572   	0.0       	0.0       
+O7        	O         	0.0913    	0.1268    	0.5       
+O8        	O         	0.0795    	0.0       	0.3423    
+O9        	O         	0.2994    	0.0       	0.1262    
+ZA9       	ZA        	0.14353   	0.0       	0.17307   
+O10       	O         	0.0       	0.1503    	0.3618    
+O11       	O         	0.2689    	0.1491    	0.0       
+Si4       	Si        	0.0756    	0.1135    	0.0       
+ZA1       	ZA        	0.0       	0.0       	0.5       
+ZA2       	ZA        	0.0       	0.0       	0.19033   
+ZA3       	ZA        	0.0       	0.5       	0.5       
+ZA4       	ZA        	0.25      	0.25      	0.5       
+ZA5       	ZA        	0.25      	0.25      	0.0       
+ZA7       	ZA        	0.5       	0.0       	0.0       
+ZA8       	ZA        	0.0       	0.5       	0.17307   
+loop_
+_topos_bond_atom_site_label_1
+_topos_bond_atom_site_label_2
+_topos_bond_site_symmetry_1
+_topos_bond_site_symmetry_2
+_topos_bond_distance
+_topos_bond_type
+O1   	Si4  	1_0_0_0   	1_0_0_0   	1.608  V    
+O1   	Si2  	1_0_0_0   	1_0_0_0   	1.61   V    
+O2   	Si2  	1_0_0_0   	1_0_0_0   	1.61   V    
+O2   	Si1  	1_0_0_0   	1_0_0_0   	1.611  V    
+O3   	Si3  	1_0_0_0   	1_0_0_0   	1.61   V    
+O3   	Si2  	1_0_0_0   	1_0_0_0   	1.61   V    
+O4   	Si2  	1_0_0_0   	1_0_0_0   	1.61   V    
+O4   	Si3  	1_0_0_0   	10_0_0_0  	1.611  V    
+Si1  	O8   	1_0_0_0   	1_0_0_0   	1.61   V    
+Si1  	O7   	1_0_0_0   	1_0_0_0   	1.61   V    
+Si1  	O10  	1_0_0_0   	1_0_0_0   	1.61   V    
+Si3  	O9   	1_0_0_0   	1_0_0_0   	1.61   V    
+Si3  	O11  	1_0_0_0   	1_0_0_0   	1.61   V    
+Si3  	O4   	1_0_0_0   	10_0_0_0  	1.611  V    
+O5   	Si4  	1_0_0_0   	1_0_0_0   	1.606  V    
+O5   	Si4  	1_0_0_0   	3_0_0_0   	1.606  V    
+O6   	Si4  	1_0_0_0   	1_0_0_0   	1.612  V    
+O6   	Si4  	1_0_0_0   	4_0_0_0   	1.612  V    
+ZA6  	ZA9  	1_0_0_0   	4_0_0_0   	2.37   V    
+O7   	Si1  	1_0_0_0   	6_0_0_1   	1.61   V    
+O8   	Si1  	1_0_0_0   	7_0_0_0   	1.61   V    
+O9   	Si3  	1_0_0_0   	7_0_0_0   	1.61   V    
+O10  	Si1  	1_0_0_0   	8_0_0_0   	1.61   V    
+O11  	Si3  	1_0_0_0   	6_0_0_0   	1.61   V    
+Si4  	O1   	1_0_0_0   	6_0_0_0   	1.608  V    
+ZA3  	ZA8  	1_0_0_0   	1_0_0_0   	4.144  V    
+ZA3  	ZA8  	1_0_0_0   	3_0_0_1   	4.144  V    
+ZA3  	ZA4  	1_0_0_0   	3_0_0_1   	6.264  V    
+ZA3  	ZA4  	1_0_0_0   	4_0_1_1   	6.264  V    
+ZA3  	ZA4  	1_0_0_0   	2_0_1_0   	6.264  V    
+ZA4  	ZA3  	1_0_0_0   	9_0_-1_0  	6.264  V    
+ZA7  	ZA8  	1_0_0_0   	11_0_-1_0 	2.194  V    
+ZA7  	ZA8  	1_0_0_0   	9_0_-1_0  	2.194  V    
+ZA8  	ZA7  	1_0_0_0   	9_-1_0_0  	2.194  V    

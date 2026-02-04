@@ -1,0 +1,74 @@
+data_EWO-PPT1
+_audit_creation_method             	Write2Cif_ToposPro  
+_symmetry_space_group_name_H-M     	C222                
+_symmetry_Int_Tables_number        	21                  
+_symmetry_cell_setting             	orthorhombic system 
+_cell_length_a                     	13.8968             
+_cell_length_b                     	17.4548             
+_cell_length_c                     	5.1892              
+_cell_angle_alpha                  	90.0                
+_cell_angle_beta                   	90.0                
+_cell_angle_gamma                  	90.0                
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-x,-y,z
+-x,y,-z
+x,-y,-z
+x+1/2,y+1/2,z
+-x+1/2,-y+1/2,z
+-x+1/2,y+1/2,-z
+x+1/2,-y+1/2,-z
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1        	O         	0.2303    	0.3669    	0.6722    
+O2        	O         	0.2414    	0.1107    	0.1722    
+O3        	O         	0.0944    	0.3339    	0.0081    
+O4        	O         	0.004     	0.2262    	0.75      
+O5        	O         	0.0944    	0.1186    	0.4896    
+Si1       	Si        	0.2088    	0.3356    	0.9583    
+Si2       	Si        	0.2043    	0.0911    	0.4587    
+ZA1       	ZA        	0.16667   	0.24809   	0.47229   
+O6        	O         	0.25      	0.25      	0.9881    
+O7        	O         	0.2106    	0.0       	0.5       
+Si3       	Si        	0.0       	0.1718    	0.5       
+Si4       	Si        	0.0       	0.2805    	0.0       
+ZA2       	ZA        	0.0       	0.0       	0.0       
+ZA3       	ZA        	0.0       	0.5       	0.5       
+ZA4       	ZA        	0.0       	0.5       	0.0       
+loop_
+_topos_bond_atom_site_label_1
+_topos_bond_atom_site_label_2
+_topos_bond_site_symmetry_1
+_topos_bond_site_symmetry_2
+_topos_bond_distance
+_topos_bond_type
+O1   	Si1  	1_0_0_0   	1_0_0_0   	1.61   V    
+O1   	Si2  	1_0_0_0   	6_0_0_0   	1.61   V    
+O2   	Si2  	1_0_0_0   	1_0_0_0   	1.61   V    
+O2   	Si1  	1_0_0_0   	6_0_0_-1  	1.609  V    
+O3   	Si4  	1_0_0_0   	1_0_0_0   	1.61   V    
+O3   	Si1  	1_0_0_0   	1_0_0_-1  	1.611  V    
+O4   	Si3  	1_0_0_0   	1_0_0_0   	1.609  V    
+O4   	Si4  	1_0_0_0   	1_0_0_1   	1.608  V    
+O5   	Si3  	1_0_0_0   	1_0_0_0   	1.608  V    
+O5   	Si2  	1_0_0_0   	1_0_0_0   	1.609  V    
+Si1  	O2   	1_0_0_0   	6_0_0_1   	1.609  V    
+Si1  	O3   	1_0_0_0   	1_0_0_1   	1.611  V    
+Si1  	O6   	1_0_0_0   	1_0_0_0   	1.608  V    
+Si2  	O1   	1_0_0_0   	6_0_0_0   	1.61   V    
+Si2  	O7   	1_0_0_0   	1_0_0_0   	1.607  V    
+ZA1  	ZA1  	1_0_0_0   	6_0_0_0   	2.317  V    
+O6   	Si1  	1_0_0_0   	6_0_0_0   	1.608  V    
+O7   	Si2  	1_0_0_0   	4_0_0_1   	1.607  V    
+Si3  	O4   	1_0_0_0   	3_0_0_1   	1.609  V    
+Si3  	O5   	1_0_0_0   	3_0_0_1   	1.608  V    
+Si4  	O3   	1_0_0_0   	3_0_0_0   	1.61   V    
+Si4  	O4   	1_0_0_0   	1_0_0_-1  	1.608  V    
+Si4  	O4   	1_0_0_0   	3_0_0_1   	1.608  V    
+ZA3  	ZA4  	1_0_0_0   	1_0_0_1   	2.595  V    
+ZA4  	ZA3  	1_0_0_0   	1_0_0_-1  	2.595  V    

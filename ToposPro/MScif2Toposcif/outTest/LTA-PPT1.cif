@@ -1,0 +1,92 @@
+data_LTA-PPT1
+_audit_creation_method             	Write2Cif_ToposPro  
+_symmetry_space_group_name_H-M     	PM-3M               
+_symmetry_Int_Tables_number        	221                 
+_symmetry_cell_setting             	cubic system        
+_cell_length_a                     	11.919              
+_cell_length_b                     	11.919              
+_cell_length_c                     	11.919              
+_cell_angle_alpha                  	90.0                
+_cell_angle_beta                   	90.0                
+_cell_angle_gamma                  	90.0                
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-x,-y,z
+-x,y,-z
+x,-y,-z
+z,x,y
+z,-x,-y
+-z,-x,y
+-z,x,-y
+y,z,x
+-y,z,-x
+y,-z,-x
+-y,-z,x
+y,x,-z
+-y,-x,-z
+y,-x,z
+-y,x,z
+x,z,-y
+-x,z,y
+-x,-z,-y
+x,-z,y
+z,y,-x
+z,-y,x
+-z,y,x
+-z,-y,-x
+-x,-y,-z
+x,y,-z
+x,-y,z
+-x,y,z
+-z,-x,-y
+-z,x,y
+z,x,-y
+z,-x,y
+-y,-z,-x
+y,-z,x
+-y,z,x
+y,z,-x
+-y,-x,z
+y,x,z
+-y,x,-z
+y,-x,-z
+-x,-z,y
+x,-z,-y
+x,z,y
+-x,z,-y
+-z,-y,x
+-z,y,-x
+z,-y,-x
+z,y,x
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1        	O         	0.0       	0.2122    	0.5       
+O2        	O         	0.1103    	0.1103    	0.3384    
+O3        	O         	0.0       	0.2967    	0.2967    
+Si1       	Si        	0.0       	0.1823    	0.3684    
+ZA1       	ZA        	0.0       	0.0       	0.5       
+ZA2       	ZA        	0.0       	0.0       	0.0       
+ZA3       	ZA        	0.5       	0.5       	0.5       
+loop_
+_topos_bond_atom_site_label_1
+_topos_bond_atom_site_label_2
+_topos_bond_site_symmetry_1
+_topos_bond_site_symmetry_2
+_topos_bond_distance
+_topos_bond_type
+O1   	Si1  	1_0_0_0   	1_0_0_0   	1.609  V    
+O1   	Si1  	1_0_0_0   	3_0_0_1   	1.609  V    
+O2   	Si1  	1_0_0_0   	15_0_0_0  	1.61   V    
+O3   	Si1  	1_0_0_0   	18_0_0_0  	1.609  V    
+Si1  	O2   	1_0_0_0   	16_0_0_0  	1.61   V    
+ZA3  	ZA3  	1_0_0_0   	1_0_0_1   	11.919 V    
+ZA3  	ZA3  	1_0_0_0   	1_0_0_-1  	11.919 V    
+ZA3  	ZA3  	1_0_0_0   	1_1_0_0   	11.919 V    
+ZA3  	ZA3  	1_0_0_0   	1_-1_0_0  	11.919 V    
+ZA3  	ZA3  	1_0_0_0   	1_0_1_0   	11.919 V    
+ZA3  	ZA3  	1_0_0_0   	1_0_-1_0  	11.919 V    

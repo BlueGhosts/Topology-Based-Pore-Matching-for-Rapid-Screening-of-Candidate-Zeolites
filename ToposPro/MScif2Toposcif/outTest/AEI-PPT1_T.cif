@@ -1,0 +1,94 @@
+data_3-TOPOS_AEI/PPT1
+_audit_creation_date                2025-02-15
+_audit_creation_method              ToposPro
+_chemical_formula_structural        'AEI/PPT 1'
+_chemical_formula_sum               'O16 Si6 ZA1'
+_citation_special_details
+;
+File: AEI.cif. 
+TILE: 36/20:[4^12.6^2.8^6]; 12/8:[4^6.6^2]
+;
+_cell_length_a                      13.677
+_cell_length_b                      12.607
+_cell_length_c                      18.497
+_cell_angle_alpha                   90
+_cell_angle_beta                    90
+_cell_angle_gamma                   90
+_cell_volume                        3189.363
+_cell_formula_units_Z               8
+_symmetry_space_group_name_H-M      'C m c m'
+_symmetry_Int_Tables_number         63
+_refine_ls_R_factor_all             0
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,1/2+z
+3 x,-y,-z
+4 -x,y,1/2-z
+5 -x,-y,-z
+6 x,y,1/2-z
+7 -x,y,z
+8 x,-y,1/2+z
+9 1/2+x,1/2+y,z
+10 1/2-x,1/2-y,1/2+z
+11 1/2+x,1/2-y,-z
+12 1/2-x,1/2+y,1/2-z
+13 1/2-x,1/2-y,-z
+14 1/2+x,1/2+y,1/2-z
+15 1/2-x,1/2+y,z
+16 1/2+x,1/2-y,1/2+z
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+O1 O 16 0.12520 0.15150 0.62930 1.0000
+O2 O 16 0.18040 0.95170 0.62530 1.0000
+O3 O 16 0.14650 0.83220 0.51160 1.0000
+O4 O 16 0.17940 0.66720 0.42810 1.0000
+O5 O 8 0.00000 0.00040 0.66140 1.0000
+O6 O 8 0.00000 0.73640 0.44680 1.0000
+O7 O 8 0.14490 0.04380 0.75000 1.0000
+O8 O 8 0.74040 0.00000 0.50000 1.0000
+Si1 Si 16 0.11260 0.03690 0.66640 1.0000
+Si2 Si 16 0.11280 0.77110 0.43940 1.0000
+Si3 Si 16 0.77330 0.90420 0.55210 1.0000
+ZA1 ZA 4 0.00000 0.58264 0.75000 1.0000
+ZA2 ZA 4 0.00000 0.00000 0.50000 1.0000
+loop_
+_topos_bond_atom_site_label_1
+_topos_bond_atom_site_label_2
+_topos_bond_site_symmetry_1
+_topos_bond_site_symmetry_2
+_topos_bond_distance
+_topos_bond_voronoi_solidangle
+_topos_bond_type
+_topos_bond_multiplicity
+O1 Si1 1_0_0_0 1_0_0_0 1.6087 25.02 V 16
+O1 Si2 1_0_0_0 3_0_1_1 1.6111 24.97 V 16
+O1 O1 1_0_0_0 7_0_0_0 3.4247 4.45 W 8
+O1 O8 1_0_0_0 5_1_0_1 3.5703 2.66 W 16
+O2 Si1 1_0_0_0 1_0_1_0 1.6098 25.00 V 16
+O2 Si3 1_0_0_0 7_1_0_0 1.6102 24.97 V 16
+O3 Si3 1_0_0_0 7_1_0_0 1.6088 25.02 V 16
+O3 Si2 1_0_0_0 1_0_0_0 1.6091 25.03 V 16
+O3 O3 1_0_0_0 13_0_1_1 3.5348 2.13 W 8
+O4 Si2 1_0_0_0 1_0_0_0 1.6091 25.00 V 16
+O4 Si3 1_0_0_0 11_-1_1_1 1.6105 24.97 V 16
+O5 Si1 1_0_0_0 7_0_0_0 1.6100 25.00 V 16
+O5 O5 1_0_0_0 4_0_0_1 3.2777 7.21 W 4
+O6 Si2 1_0_0_0 1_0_0_0 1.6094 25.00 V 16
+O7 Si1 1_0_0_0 1_0_0_0 1.6106 24.96 V 16
+O8 Si3 1_0_0_0 1_0_-1_0 1.6093 25.01 V 16
+ZA1 ZA1 1_0_0_0 9_-1_-1_0 9.3005 0.00 V 8
+ZA1 ZA1 1_0_0_0 2_0_1_0 9.4803 0.00 V 4
+ZA1 ZA1 1_0_0_0 10_-1_1_0 12.2518 0.00 N 8
+ZA1 ZA2 1_0_0_0 10_-1_0_0 8.3207 0.00 N 16
+ZA1 ZA2 1_0_0_0 2_0_0_0 8.6798 0.00 N 8
+ZA1 ZA1 1_0_0_0 1_0_-1_0 12.6070 0.00 N 4
+ZA1 ZA2 1_0_0_0 2_0_1_0 7.0049 0.00 N 8
+#End of data_3-TOPOS_AEI/PPT1

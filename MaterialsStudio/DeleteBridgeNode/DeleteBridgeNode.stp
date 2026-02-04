@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+  <Version>19.1</Version>
+  <Reference>{A2429C18-4D42-4A93-A18C-11B310EA503C}</Reference>
+  <DocumentManager>
+    <Document>
+      <ID>{AE0BA637-03CE-4502-8A73-385E07F425A7}</ID>
+      <Paths>1</Paths>
+      <URL>.\-HOS-PPT1.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{3CF562F3-66FA-4A13-9E6D-0877100F9199}</ID>
+      <Paths>1</Paths>
+      <URL>.\-HOS-PPT1 (2).xsd</URL>
+    </Document>
+    <Document>
+      <ID>{4B323258-012F-476F-850D-4B21A2E30CA4}</ID>
+      <Paths>1</Paths>
+      <URL>.\0010010010110211-PPT 1.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{7B8EBC09-EDE5-4847-8A3F-5ADA60DE6D22}</ID>
+      <Paths>1</Paths>
+      <URL>.\00101-PPT 1.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{96B069A9-8E4C-4BDC-B4E9-0BE41212F496}</ID>
+      <Paths>1</Paths>
+      <URL>.\00101-PPT 1 (2).xsd</URL>
+    </Document>
+  </DocumentManager>
+</Project>

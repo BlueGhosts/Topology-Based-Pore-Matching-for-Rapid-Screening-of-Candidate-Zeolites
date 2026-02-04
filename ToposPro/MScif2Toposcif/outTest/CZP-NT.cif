@@ -1,0 +1,67 @@
+data_CZP-NT
+_audit_creation_method             	Write2Cif_ToposPro  
+_symmetry_space_group_name_H-M     	P6122               
+_symmetry_Int_Tables_number        	178                 
+_symmetry_cell_setting             	hexagonal system    
+_cell_length_a                     	9.355               
+_cell_length_b                     	9.355               
+_cell_length_c                     	14.862              
+_cell_angle_alpha                  	90.0                
+_cell_angle_beta                   	90.0                
+_cell_angle_gamma                  	120.0               
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-y,x-y,z+1/3
+-x+y,-x,z+2/3
+-x,-y,z+1/2
+y,-x+y,z+5/6
+x-y,x,z+1/6
+y,x,-z+1/3
+x-y,-y,-z
+-x,-x+y,-z+2/3
+-y,-x,-z+5/6
+-x+y,y,-z+1/2
+x,x-y,-z+1/6
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1        	O         	0.8353    	0.5511    	0.3299    
+O2        	O         	0.0164    	0.7833    	0.2105    
+O3        	O         	0.6575    	0.6064    	0.4467    
+O4        	O         	0.8201    	0.4562    	0.4999    
+Si1       	Si        	0.821     	0.5928    	0.4337    
+Si2       	Si        	0.4678    	0.5322    	0.41667   
+ZA2       	ZA        	0.25586   	0.74413   	0.41667   
+Si3       	Si        	0.83333   	0.666667  	0.25      
+ZA1       	ZA        	0.78313   	0.89156   	0.58333   
+ZA3       	ZA        	0.0       	0.32052   	0.333333  
+loop_
+_topos_bond_atom_site_label_1
+_topos_bond_atom_site_label_2
+_topos_bond_site_symmetry_1
+_topos_bond_site_symmetry_2
+_topos_bond_distance
+_topos_bond_type
+O1   	Si3  	1_0_0_0   	1_0_0_0   	1.612  V    
+O1   	Si1  	1_0_0_0   	1_0_0_0   	1.613  V    
+O2   	Si3  	1_0_0_0   	1_-1_0_0  	1.612  V    
+O2   	Si1  	1_0_0_0   	9_1_1_0   	1.613  V    
+O3   	Si1  	1_0_0_0   	1_0_0_0   	1.609  V    
+O3   	Si2  	1_0_0_0   	1_0_0_0   	1.612  V    
+O4   	Si1  	1_0_0_0   	1_0_0_0   	1.609  V    
+O4   	Si2  	1_0_0_0   	6_1_0_0   	1.612  V    
+Si1  	O2   	1_0_0_0   	9_1_0_0   	1.613  V    
+Si2  	O3   	1_0_0_0   	10_1_1_0  	1.612  V    
+Si2  	O4   	1_0_0_0   	5_0_1_-1  	1.612  V    
+Si2  	O4   	1_0_0_0   	8_0_1_1   	1.612  V    
+Si3  	O1   	1_0_0_0   	11_1_0_0  	1.612  V    
+Si3  	O2   	1_0_0_0   	1_1_0_0   	1.612  V    
+Si3  	O2   	1_0_0_0   	11_0_0_0  	1.612  V    
+ZA1  	ZA3  	1_0_0_0   	2_1_1_0   	2.118  V    
+ZA1  	ZA3  	1_0_0_0   	6_1_1_0   	2.118  V    
+ZA3  	ZA1  	1_0_0_0   	3_0_1_-1  	2.118  V    
+ZA3  	ZA1  	1_0_0_0   	5_-1_0_-1 	2.118  V    
