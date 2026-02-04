@@ -2,6 +2,8 @@
 
 [English](#english) | [中文](#中文)
 
+**📚 Quick Links**: [Quick Start Guide](QUICK_START.md) | [File Descriptions](FILE_DESCRIPTIONS.md) | [Contributing](CONTRIBUTING.md) | [Changelog](CHANGELOG.md)
+
 ---
 
 ## English
