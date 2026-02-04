@@ -116,7 +116,7 @@ Contributions are welcome! Please feel free to submit issues or pull requests.
 
 ### License
 
-Please check with the repository owner for licensing information.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ### Contact
 
@@ -236,7 +236,7 @@ topology.visualize()
 
 ### 许可证
 
-许可证信息请咨询仓库所有者。
+本项目采用 MIT 许可证 - 详情请参见 [LICENSE](LICENSE) 文件。
 
 ### 联系方式
 
