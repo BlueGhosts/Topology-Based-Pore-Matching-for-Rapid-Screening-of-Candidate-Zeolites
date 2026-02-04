@@ -1,1 +1,0 @@
-pyinstaller --onefile --add-data "..\..\ToposPro;." --add-data "D:\Work\Programs\Normal;." GetDeleteNotConnectionZaCif-ToposPro.py
