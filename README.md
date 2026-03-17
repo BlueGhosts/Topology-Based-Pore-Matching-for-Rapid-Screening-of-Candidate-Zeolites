@@ -1,6 +1,10 @@
-A topology-based pore matching method for rapid screening of candidate zeolites.
+# Topology-Based Pore Matching for Rapid Screening of Candidate Zeolites
 
-Overview
+A topology-based pore matching method for rapid screening of candidate zeolites by simplifying complex pore channels into node-link networks, enabling efficient screening from massive zeolite structure databases.
+
+---
+
+## Overview
 
 This repository contains the supporting code to assist in completing the research work associated with the following paper:
 
