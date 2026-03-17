@@ -1,4 +1,4 @@
-<img width="1650" height="1709" alt="PoreTopology-Figure2" src="https://github.com/user-attachments/assets/485c0673-35ed-4e98-85b9-a4ff3b02e2cd" />A topology-based pore matching method for rapid screening of candidate zeolites.
+A topology-based pore matching method for rapid screening of candidate zeolites.
 
 Overview
 
